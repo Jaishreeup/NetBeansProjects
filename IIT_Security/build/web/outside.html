@@ -1,0 +1,75 @@
+
+<html>
+<head>
+	<script type='text/javascript'>
+		function validateForm7 () {
+			var x1=document.forms['cse_db7']['ueqt'].value
+			if (x1 == '') 
+			{
+        		document.getElementById('d7').innerHTML = 'Invalid Input';
+        		return false;
+    		}
+    		return true;
+		}
+	</script>
+	<title>user registration</title>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	
+	<!--link rel="stylesheet" type="text/css" href="styles.css"-->
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <!--header -->
+            <div class="navbar-header">
+                <!-- change url here -->
+                <a class="navbar-brand" href="camera.html"><p id="title">IIT Security Software</p></a>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#topNavBar">
+                    <span class="icon-bar"> </span>
+                    <span class="icon-bar"> </span>
+                    <span class="icon-bar"> </span>
+                </button>
+            </div>
+            <!-- items -->
+            <div class="collapse navbar-collapse mymenu" id="topNavBar">
+
+                <ul class="nav navbar-nav navbar-right" >
+                         <li class="active">
+                             <a href="camera.html">
+                                 <span class="glyphicon glyphicon-user" aria-hidden="true"></span>&nbsp;Camera
+                             </a>
+                         </li>
+                        <li class="">
+                             <a href="#" >
+                                 <span class="glyphicon glyphicon-phone" aria-hidden="true"></span>&nbsp; ContactUs
+                             </a>
+                         </li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+	<div id="backgroundImage"> </div>
+	<div class="container col-sm-4">
+		<form class="form-signin" method="POST" action="outside_form">
+        
+                    <h5 class="form-signin-heading">Please enter details <br />
+        of outside vehicle</h5>
+        <div class="input-group">
+		    <span class="input-group-addon" id="basic-addon1"></span>
+		    <input type="text" name="username" id="username" class="form-control" placeholder="Name*" required>
+        </div>
+        <input type="number" name="contact" id="contact" class="form-control" placeholder="Contact*" required>
+         
+         			<textarea row='8' cols='50' placeholder='visiting purpose Here !!' id='ueqt' name='purpose'></textarea>
+        <input class="btn btn-lg btn-primary btn-block" type="submit" value="submit">
+        <!--a class="btn btn-lg btn-primary btn-block" href="login.php">Login</a-->
+     </form>
+</div>
+</body>
+</html> 

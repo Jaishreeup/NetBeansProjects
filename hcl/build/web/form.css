@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13 Jun, 2015, 9:47:13 AM
+    Author     : JAISHREE UPRETI
+*/
+body
+{
+    background-color:lemonchiffon;
+}
+form
+{
+   
+}
+#formdiv
+{
+    height:32%;
+    background-color:cornsilk;
+    color:black;
+    width: 20%;
+    height: 30%;
+    border-radius:1em;
+    border:solid;
+    border-color:chocolate;
+    //height:50%;
+}
+#heading
+{
+    width:100%;
+    background-color:bisque;
+    color:black;
+ //   height:50%;
+}
+input
+{
+    width:50%;
+   //     height:50%;
+}
+#submit
+{
+    width:20%;
+     //   height:50%;
+}
+
+label
+{
+    width:30%;
+       // height:50%;
+}

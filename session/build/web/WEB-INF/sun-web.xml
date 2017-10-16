@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sun-web-app PUBLIC "-//Sun Microsystems, Inc.//DTD GlassFish Application Server 3.0 Servlet 3.0//EN" "http://www.sun.com/software/appserver/dtds/sun-web-app_3_0-0.dtd">
+<sun-web-app error-url="">
+  <servlet>
+    <servlet-name>servlet1</servlet-name>
+  </servlet>
+  <class-loader delegate="true" extra-class-path="com.journaldev.servlet.session.sessionlistener"/>
+  <jsp-config>
+    <property name="keepgenerated" value="true">
+      <description>Keep a copy of the generated servlet class' java code.</description>
+    </property>
+  </jsp-config>
+  <listener>
+    <listener-class>com.journaldev.servlet.session.sessionlistener</listener-class>
+  </listener>
+  <message-destination>
+    <message-destination-name>destination1</message-destination-name>
+  </message-destination>
+</sun-web-app>

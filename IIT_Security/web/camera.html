@@ -1,0 +1,151 @@
+
+<html>
+<head>
+
+	<style>
+		/* Popup container - can be anything you want */
+		.popup {
+			position: relative;
+			display: inline-block;
+			cursor: pointer;
+			-webkit-user-select: none;
+			-moz-user-select: none;
+			-ms-user-select: none;
+			user-select: none;
+		}
+
+		/* The actual popup */
+		.popup .popuptext {
+			visibility: hidden;
+			width: 160px;
+			background-color: #555;
+			color: #fff;
+			text-align: center;
+			border-radius: 6px;
+			padding: 8px 0;
+			position: absolute;
+			z-index: 1;
+			bottom: 125%;
+			left: 50%;
+			margin-left: -80px;
+		}
+
+		/* Popup arrow */
+		.popup .popuptext::after {
+			content: "";
+			position: absolute;
+			top: 100%;
+			left: 50%;
+			margin-left: -5px;
+			border-width: 5px;
+			border-style: solid;
+			border-color: #555 transparent transparent transparent;
+		}
+
+		/* Toggle this class - hide and show the popup */
+		.popup .show {
+			visibility: visible;
+			-webkit-animation: fadeIn 1s;
+			animation: fadeIn 1s;
+		}
+
+		/* Add animation (fade in the popup) */
+		@-webkit-keyframes fadeIn {
+			from {opacity: 0;} 
+			to {opacity: 1;}
+		}
+
+		@keyframes fadeIn {
+			from {opacity: 0;}
+			to {opacity:1 ;}
+		}
+	</style>
+	<script type='text/javascript'>
+		function validateForm7 () {
+			var x1=document.forms['cse_db7']['ueqt'].value
+			if (x1 == '') 
+			{
+        		document.getElementById('d7').innerHTML = 'Invalid Input';
+        		return false;
+    		}
+    		return true;
+		}
+	</script>
+	<title>user registration</title>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	
+	<!--link rel="stylesheet" type="text/css" href="styles.css"-->
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body style="text-align:center">
+	<nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <!--header -->
+            <div class="navbar-header">
+                <!-- change url here -->
+                <a class="navbar-brand" href="index.html"><p id="title">IIT Security Software</p></a>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#topNavBar">
+                    <span class="icon-bar"> </span>
+                    <span class="icon-bar"> </span>
+                    <span class="icon-bar"> </span>
+                </button>
+            </div>
+            <!-- items -->
+            <div class="collapse navbar-collapse mymenu" id="topNavBar">
+
+                <ul class="nav navbar-nav navbar-right" >
+                         <li class="">
+                             <a href="register.html">
+                                 <span class="glyphicon glyphicon-user" aria-hidden="true"></span>&nbsp; New User
+                             </a>
+                         </li>
+                        <li class="">
+                             <a href="login.html">
+                                 <span class="glyphicon glyphicon-lock" aria-hidden="true"></span>&nbsp; Login
+                             </a>
+                         </li>
+                        <li class="active">
+                             <a href="camera.html" >
+                                 <span class="glyphicon glyphicon-phone" aria-hidden="true"></span>&nbsp; Camera
+                             </a>
+                         </li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+	<div id="backgroundImage"> </div>
+	<div class="container col-sm-4">
+		<form class="form-signin" method="get" action="camera">
+		    <h5 class="form-signin-heading">Camera Reads</h5>
+		    <div class="input-group">
+			  <span class="input-group-addon" id="basic-addon1"></span>
+			  <input type="text" name="registration" id="registration" class="form-control" placeholder="Registration no*" required>
+			</div>
+			<!--label for="inputEmail" class="sr-only">Email address</label-->
+		    <input type="text" name="model" id="inputmodel" class="form-control" placeholder="Model*"  required autofocus>
+		  <input type="radio" name="enter/exit" value="entry"> Enter<br>
+		  <input type="radio" name="enter/exit" value="exit"> Exit
+		
+        	<!--button class="btn btn-lg btn-primary btn-block" type="submit">Submit</button-->
+        	<input type="Submit" value="Submit" class="btn btn-lg btn-primary btn-block" >
+        </form>
+    </div>
+
+		<!--<div class="popup" onclick="myFunction()">Click me to toggle the popup!
+		  <span class="popuptext" id="myPopup">A Simple Popup!</span>
+		</div>-->
+
+		<script>
+		// When the user clicks on div, open the popup
+		function myFunction() {
+			var popup = document.getElementById("myPopup");
+			popup.classList.toggle("show");
+		}
+		</script>
+</body>
+</html> 

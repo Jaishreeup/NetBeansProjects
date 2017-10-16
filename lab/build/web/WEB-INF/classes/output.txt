@@ -1,0 +1,3480 @@
+
+NAME
+Sudeshna Sarkar
+RESPONSIBILITY
+Head, Computer Science and Engineering
+EMAIL
+sudeshna@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-283494
+                                                                        
+WEBSITE
+http://cse.iitkgp.ac.in/~sudeshna
+RESEARCH
+I work in Artificial Intelligence, Machine Learning and Natural Language Processing. I am interested in applying Artificial Intelligence and Machine Learning methods to different domains. I have been working with Natural Language Processing of Indian languages, information retrieval and recommendation systems and text mining applications. I am interested in using Machine learning methods to tasks related to climate modelling and prediction. I have been interested in doing analytics of mobility data. We have been working on applications in the domain of transportation and logistics.
+                                                    
+PUBLICATION
+Preference Relations Based Unsupervised Rank Aggregation for Metasearch  by Maunendra Sankar Desarkar, Sudeshna Sarkar, Pabitra Mitra  
+                                                            Expert Systems with Applications 
+                                                            49 (1) 
+                                                             86-98 
+YEAR
+(2016)
+
+                                                        PUBLICATION
+A Mobility Simulation Framework Of Humans With Group Behavior Modeling  by Gupta, A.; MISHRA, A.; Vadlamudi, S.G.; Chakrabarti, P.P.; Sarkar, S.; Mukherjee, T.; Gnanasambandam, N.  
+                                                            Data Mining (ICDM), 2013 IEEE 13th International Conference on 
+                                                            IEEE 
+                                                             1067-1072 
+YEAR
+(2013)
+
+                                                        PUBLICATION
+Investigation and Modeling of the Structure of Texting Language  by Monojit Choudhury, Rahul Saraf, Vijit Jain, Animesh Mukherjee, Sudeshna Sarkar, Anupam Basu  
+                                                            International Journal on Document Analysis and Recognition (IJADR) 
+                                                            10 (4) 
+                                                             157-174 
+YEAR
+(2007)
+
+                                                        PUBLICATION
+A Comparative Study on Feature Reduction Approaches in Hindi and Bengali Named Entity Recognition  by Sujan Kumar Saha, Pabitra Mitra  and Sudeshna Sarkar  
+                                                            Knowledge-Based Systems 
+                                                            27 
+                                                             322-332 
+YEAR
+(2012)
+
+                                                        PUBLICATION
+Feature selection techniques for maximum entropy based biomedical named entity recognition.  by Sujan Kumar Saha, Sudeshna Sarkar, Pabitra Mitra  
+                                                            Journal of Biomedical Informatics 
+                                                            42 (5) 
+                                                             905-911 
+YEAR
+(2009)
+
+                                                        PUBLICATION
+A Dependency Annotation Scheme For Bangla Tree-bank  by Sanjay Chatterji, Tanaya Mukherjee Sarkar, Pragati Dhang, Samhita Deb, Sudeshna Sarkar, Jayshree Chakraborty, Anupam Basu  
+                                                            Language Resources and Evaluation 
+                                                            48 (3) 
+                                                             443-477 
+YEAR
+(2014)
+
+                                                        PUBLICATION
+Personalized Search over Medical Forums  by Arohi Kumar, Amit Kumar Meher, Sudeshna Sarkar  
+                                                            Mining Intelligence and Knowledge Exploration 
+                                                            Springer 
+                                                             11-20 
+YEAR
+(2014)
+
+                                                        PUBLICATION
+Segmenting Highway Network Based on Speed Profiles  by Aziz, Russel, Manav Kedia, Soham Dan, Sudeshna Sarkar, Sudeshna Mitra  
+                                                            Intelligent Transportation Systems (ITSC), 2015 IEEE 18th International Conference on 
+                                                            IEEE 
+                                                             2927-2932 
+YEAR
+(2015)
+
+                                                        PUBLICATION
+Assisting web document retrieval with topic identification in tourism domain  by Rajendra Prasath, Vijai Kumar, Sudeshna Sarkar  
+                                                            Web Intelligence 
+                                                            13 (1) 
+                                                             31-41 
+YEAR
+(2015)
+
+                                                        PUBLICATION
+Syntactico- semantic subject (karta) in Bangla  by Pragati Dhang, Sanjay Chatterji, Tanaya Mukherjee Sarkar, Sudeshna Sarkar, Jayashree Chakraborty, Anupam Basu  
+                                                            International Journal of Bengal Studies 
+                                                            4-5 
+                                                             434-449 
+YEAR
+(2014)
+
+                                                        PROJECTS
+AI driven real time traffic incident prediction and traffic management&nbsp;MHRD
+PROJECTS
+Application of artificial intelligence in groundwater storage estimation of Indian subcontinent&nbsp;MHRD
+PROJECTS
+A ROBUST BANGLA SPELL CHECKER&nbsp;SOCIETY FOR NATURAL LANGUAGE TECHNOLOGY RESEARCH, KOLKATA
+PROJECTS
+Artificial intelligence for societal needs: knowledge discovery and intelligent decision making for solving problems in Indian context related to energy, climate, water, disaster management and traffic&nbsp;IIT KHARAGPUR
+PROJECTS
+Centre of Excellence in robotics&nbsp;SRIC, IIT KHARAGPUR
+PROJECTS
+Creation of Bengali Dependency Treebank&nbsp;GOOGLE INDIA PVT. LTD
+PROJECTS
+Development of Cross Lingual Information Access System - CLIA - Phase 2&nbsp;Ministry of Communication &amp; Information Technology, Department of Information Technology
+PROJECTS
+Development of national digital library (NDL) of India - towards building a national asset&nbsp;National Mission on Education through Communication &amp; Information Technology (NMEICT)
+PROJECTS
+Effective Drug Repurposing Through Literature &amp; Patent Mining, Data Integration &amp; Development of Systems Pharmacology Platform&nbsp;MHRD
+PROJECTS
+Feature extraction and data mining from climate data&nbsp;MHRD
+PROJECTS
+Review Recommendation System&nbsp;Flipkart Internet Private Ltd.
+PROJECTS
+Robo-soccer research by Kharagpur Robot Soccer Students Group&nbsp;SRIC, IIT KHARAGPUR
+PROJECTS
+To develop a scientific rationale of IELS (Indo-European Langauge Systems) applying a) Computational Linguistics &amp; b) Cognitive Geo-spatial mapping approaches&nbsp;MHRD
+PROJECTS
+Uchhatar Avishkar Yojana&nbsp;MHRD
+Ph.D. Students
+STUDENT
+Russel Aziz
+Area of Research: 
+Transportation planning
+STUDENT
+Ayan Das
+Area of Research: 
+Machine Learning
+STUDENT
+Pragnaditya Malakar
+Area of Research: 
+Artifical Intelligence application on Groundwater
+STUDENT
+Alapan Kuila
+Area of Research: 
+Natural Language Processing
+STUDENT
+Madiraju Srilakshmi
+Area of Research: 
+Machine Learning
+MS Students
+STUDENT
+Sonam Singh
+Area of Research: 
+Cl;imate Data Mining
+STUDENT
+Prabir Mallick
+Area of Research: 
+Transportation Analytics
+STUDENT
+Paheli Bhattacharya
+Area of Research: 
+Corpus Linguistics
+STUDENT
+Sulagna Gope
+Area of Research: 
+Climate Data Mining
+STUDENT
+Saptarshi Misra
+Area of Research: 
+Machine Learning
+STUDENT
+Ankita Saha
+Area of Research: 
+Natural Language Processing
+STUDENT
+Arunavo Banerjee
+Area of Research: 
+Information Retrieval
+STUDENT
+Ayan Chandra
+Area of Research: 
+Digital Library and Information Retrieval
+STUDENT
+Indrasekhar Sengupta
+Area of Research: 
+Digital Library and Information Retrieval
+
+NAME
+Abhijit Das
+EMAIL
+abhij@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-282350
+                                                                        
+WEBSITE
+http://cse.iitkgp.ac.in/~abhij/
+PUBLICATION
+Computational Number Theory  by Abhijit Das  
+                                                            Series: Discrete Mathematics and its Applications 
+                                                            CRC Press 
+                                                             614 pages 
+YEAR
+(2013)
+
+                                                        PUBLICATION
+Public-Key Cryptography: Theory and Practice  by Abhijit Das and C E Veni Madhavan  
+                                                            Graduate Text 
+                                                            Pearson Education 
+                                                             584 pages 
+YEAR
+(2009)
+
+                                                        PUBLICATION
+New Algorithms for Batch Verification of Standard ECDSA Signatures  by Sabyasachi Karati, Abhijit Das, Dipanwita Roychowdhury, Bhargav Bellur, Debojyoti Bhattacharya and Aravind Iyer  
+                                                            Journal of Cryptographic Engineering 
+                                                            4(4) Springer-Verlag 
+                                                             237-258 
+YEAR
+(2014)
+
+                                                        PUBLICATION
+Faster Batch Verification of Standard ECDSA Signatures Using Summation Polynomials  by Sabyasachi Karati and Abhijit Das  
+                                                            12th International Conference on Applied Cryptography and Network Security (ACNS) 
+                                                            LNCS 8479 Springer-Verlag 
+                                                             438-456 
+YEAR
+(2014)
+
+                                                        PUBLICATION
+Use of SIMD Features to Speed up Eta Pairing  by Anup Kumar Bhattacharya, Sabyasachi Karati, Abhijit Das, Dipanwita Roychowdhury, Bhargav Bellur and Aravind Iyer  
+                                                            Communications in Computer and Information Science 
+                                                            455 Springer-Verlag 
+                                                             137-154 
+YEAR
+(2014)
+
+                                                        PUBLICATION
+GPU-Based Implementation of 128-bit Secure Eta Pairing over a Binary Field  by Utsab Bose, Anup Kumar Bhattacharya and Abhijit Das  
+                                                            6th International Conference on Cryptology in Africa (AfricaCrypt) 
+                                                            LNCS 7918 Springer-Verlag 
+                                                             26-42 
+YEAR
+(2013)
+
+                                                        PUBLICATION
+Use of SIMD-Based Data Parallelism to Speed up Sieving in Integer-Factoring Algorithms  by Binanda Sengupta and Abhijit Das  
+                                                            Applied Mathematics and Computation 
+                                                            Volume 293 
+                                                             204-217 
+YEAR
+(2016)
+
+                                                        PUBLICATION
+New Variants of Algebraic Attacks Based on Structured Gaussian Elimination (Extended Abstract)  by Satrajit Ghosh and Abhijit Das  
+                                                            Third International Conference on Symbolic Computation and Cryptography (SCC) 
+                                                            Castro Urdiales, Spain 
+                                                             119-125 
+YEAR
+(2012)
+
+                                                        PUBLICATION
+Parallelization of the Lanczos Algorithm on Multi-Core Platforms  by Souvik Bhattacherjee and Abhijit Das  
+                                                            11th International Conference on Distributed Computing and Networking (ICDCN) 
+                                                            LNCS 5935 Springer-Verlag 
+                                                             231-241 
+YEAR
+(2010)
+
+                                                        PUBLICATION
+On the Cubic Sieve Method for Computing Discrete Logarithms over Prime Fields  by Abhijit Das and C E Veni Madhavan  
+                                                            International Journal of Computer Mathematics (IJCM) 
+                                                            82(12) Taylor and Francis 
+                                                             1481-1495 
+YEAR
+(2005)
+
+                                                        PROJECTS
+Design and efficient implementation of advanced encryption and decryption techniques for use in spacecraft communication&nbsp;ISRO, IIT KHARAGPUR CELL
+PROJECTS
+Indigenous design methodologies for elliptic curve cryptography on FPGs&nbsp;Directorate of extramural research &amp; intellectual property rights (ER&amp;IPR), DRDO
+Ph.D. Students
+STUDENT
+Souvik Sur
+Area of Research: 
+Cryptology
+MS Students
+STUDENT
+Anindya Ganguly
+Area of Research: 
+Cryptography
+
+NAME
+Animesh Mukherjee
+EMAIL
+animeshm@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-283472
+                                                                        
+WEBSITE
+http://cse.iitkgp.ac.in/~animeshm/
+PUBLICATION
+Anomalies in the peer-review system: A case study of the journal of High Energy Physics  by Sikdar, S., Marsili, M, Ganguly, N. and Mukherjee, A.  
+                                                            CIKM (16) 
+                                                             
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+#Bieber + #Blast = #BieberBlast: Early prediction of popular hashtag compounds  by Maity, S. K., Saraf, R. and Mukherjee, A.  
+                                                            CSCW (16) 
+                                                             
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+On the categorization of scientific citation profiles in computer sciences  by Chakraborty, T., Kumar, S., Goyal, P., Ganguly, N. and Mukherjee, A.  
+                                                            Communications of the ACM 
+                                                            58(9) 
+                                                             82-90 
+YEAR
+(2015)
+
+                                                        PUBLICATION
+Constant communities in complex networks  by Chakraborty, T., Srinivasan, S., Ganguly, N., Bhowmick, S. and Mukherjee, A.  
+                                                            Nature Scientific Reports 
+                                                            3 
+                                                             1825 
+YEAR
+(2013)
+
+                                                        PUBLICATION
+On the formation of circles in co-authorship networks.  by Chakraborty, T., Patranabis, S., Goyal, P. and Mukherjee, A.  
+                                                            KDD (15) 
+                                                             
+                                                              
+YEAR
+(2015)
+
+                                                        PUBLICATION
+Understanding Stability of Noisy Networks through Centrality Measures and Local Connections,  by Ufimtsev, V., Sarkar, S., Mukherjee, A. and Bhowmick, S.  
+                                                            CIKM (16) 
+                                                             
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+On the permanence of vertices in network communities  by Chakraborty, T., Kumar, S., Ganguly, N., Mukherjee, A. and Bhowmick, S.  
+                                                            KDD (14) 
+                                                             
+                                                              
+YEAR
+(2014)
+
+                                                        PUBLICATION
+GenPerm: A Unified Method for Detecting Non-overlapping and Overlapping Communities.  by Chakraborty, T., Kumar, S., Ganguly, N., Mukherjee, A. and Bhowmick, S.  
+                                                            IEEE TKDE 
+                                                            28(8) 
+                                                             2101--2114 
+YEAR
+(2016)
+
+                                                        PUBLICATION
+Permanence and Community Structure in Complex Networks.  by Chakraborty, T., Srinivasan, S., Ganguly, N., Mukherjee, A. and Bhowmick, S.  
+                                                            ACM TKDD 
+                                                            (in press) 
+                                                              
+YEAR
+(2016)
+
+                                                        PROJECTS
+Data driven approaches for inferring opinion dynamics on social networks&nbsp;Department of Science &amp; Technology(DST)
+PROJECTS
+From Word Senses to Entity Roles: Identifying Temporal and Media-specific Scopes Through Big Data Analytics&nbsp;Indian National Science Academy
+PROJECTS
+Google Unrestricted Fund for Social Computing&nbsp;GOOGLE INDIA PVT. LTD
+PROJECTS
+IBM Faculty Award for Social Computing&nbsp;IBM
+PROJECTS
+Leveraging bipartite network to investigate the dynamical properties of socio-technical systems&nbsp;Samsung Electronics Co.Ltd.
+PROJECTS
+NSF and Intel grants to Georgia State University&nbsp;NSF and Intel Grants to Georgia State University
+PROJECTS
+Post disaster situation analysis and resource management using delay tolerant peer to peer wireless networks (DISARM)&nbsp;Information Technology Research Academy (ITRA)
+PROJECTS
+Social computing for e-commerce&nbsp;Flipkart Internet Private Ltd.
+PROJECTS
+SocioWeb: Social computation to enhance web and network applications&nbsp;ISIRD, SRIC
+PROJECTS
+Unrestricted grant for research in social networks and user-generated content&nbsp;Dr. M Chelliah, Head, Academic Relations, Yahoo India R &amp; D
+PROJECTS
+Unrestricted research grant in social computing&nbsp;MICROSOFT CORPORATION
+Ph.D. Students
+STUDENT
+Sandipan Sikdar
+Area of Research: 
+Time varying networks
+STUDENT
+Suman Kalyan Maity
+Area of Research: 
+Modeling language dynamics
+STUDENT
+Mayank Singh
+Area of Research: 
+Data Mining, Natural Language Processing, Machine Learning
+STUDENT
+Suhansanu Kumar
+Area of Research: 
+Social Recommendation
+STUDENT
+Soumya Sarkar
+Area of Research: 
+Community analysis in large networks
+STUDENT
+Jasabanta Patro
+Area of Research: 
+Code mixing and code switching in social media
+STUDENT
+Binny Mathew
+Area of Research: 
+Language dynamics in text and social media
+
+NAME
+Anupam Basu
+RESPONSIBILITY
+Head, Centre for Educational Technology
+EMAIL
+anupam@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-283462
+                                                                        
+PROJECTS
+Architectural and Algorithmic Optimizations for Speech Based Communication Interfaces on Mobile Device&nbsp;INTEL TECHNOLOGY INDIA PVT. LTD.
+PROJECTS
+A ROBUST BANGLA SPELL CHECKER&nbsp;SOCIETY FOR NATURAL LANGUAGE TECHNOLOGY RESEARCH, KOLKATA
+PROJECTS
+Central Sector Scheme for MOOC Compliant E-Content Creation&nbsp;MHRD, Department of Higher Education, NMEICT, New Delhi
+PROJECTS
+CS4HS (Computer Science for High Schools)&nbsp;GOOGLE INDIA PVT. LTD
+PROJECTS
+DEGITIZATION AND WEB HOSTING OF BANKIM RACHNABALI IN UNICODE FORMAT.&nbsp;Society for Natural Language Technology ResearchSNLTR
+PROJECTS
+Development of national digital library (NDL) of India - towards building a national asset&nbsp;National Mission on Education through Communication &amp; Information Technology (NMEICT)
+PROJECTS
+Direct-To-Home (DTH) SWAYAM Prabha&nbsp;MHRD, Department of Higher Education, NMEICT, New Delhi
+PROJECTS
+Direct-To-Home (DTH) SWAYAM Prabha: Channel 13 (Computer Science &amp; Engg.)&nbsp;MHRD, Department of Higher Education, NMEICT, New Delhi
+PROJECTS
+IMPRINT Activities at IIT Kharagpur&nbsp;MHRD, Department of Higher Education, NMEICT, New Delhi
+PROJECTS
+IMPRINT activities related to ICT domain at IIT Kharagpur&nbsp;MHRD
+PROJECTS
+Setting up of Teaching Learning Centre for Pedagogy Design &amp; Research&nbsp;MHRD
+Ph.D. Students
+STUDENT
+Syaamantak Das
+Area of Research: 
+Cognitive Approach to Learning and Evaluation
+
+NAME
+Arobinda Gupta
+RESPONSIBILITY
+Chairman, Computer Purchase, Maintenance &amp; Networking Committee
+EMAIL
+agupta@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-283476
+                                                                        
+RESEARCH
+My research interests lie broadly in the area of distributed systems and networks.&nbsp; Some of the problems I have worked on in recent times include coverage in wireless sensor networks, event and data dissemination in vehicular ad hoc networks, and desgning algorithms for time-varying graphs that can model many dynamic network scenarios. Recently, I have also been interested in scheduling and coordination problems that exist in smart grids, where I have worked on the problem of&nbsp; charge scheduling of electric vehicles in smart grids.
+                                                    
+PUBLICATION
+Event notification in VANET with capacitated roadside units  by J. C. Mukherjee, A. Gupta, and R. C. Srinivas  
+                                                            IEEE Transactions on Intelligent Transportation Systems 
+                                                            Vol. 17, No. 7 
+                                                             1867-1879 
+YEAR
+(2016)
+
+                                                        PUBLICATION
+A review of charge scheduling of electric vehicles in smart grid  by J. C. Mukherjee and A. Gupta  
+                                                            IEEE Systems Journal 
+                                                            Vol. 9, No. 4 
+                                                             1541-1553 
+YEAR
+(2016)
+
+                                                        PUBLICATION
+Mobility aware scheduling for imbalance reduction through charging coordination of electric vehicles in smart grid  by J. C. Mukherjee and A. Gupta  
+                                                            Pervasive and Mobile Computing 
+                                                            Vol. 21 
+                                                             104-118 
+YEAR
+(2016)
+
+                                                        PUBLICATION
+Line coverage measures in wireless sensor networks  by D. Dash, A. Gupta, A. Bishnu, and S. C. Nandy  
+                                                            Journal of Parallel and Distributed Computing 
+                                                            Vol. 74, No. 7 
+                                                              
+YEAR
+(2014)
+
+                                                        PUBLICATION
+Detecting misbehaviors in VANET with integrated root cause analysis  by M. Ghosh, A. Varghese, A. Gupta, A. Kherani, and S. Muthaiah  
+                                                            Ad Hoc Networks 
+                                                            Vol. 8, No. 7 
+                                                              
+YEAR
+(2010)
+
+                                                        PUBLICATION
+Adaptive broadcast by fault-tolerant spanning tree switching  by S. Karmakar and A. Gupta  
+                                                            Journal of Parallel and Distributed Computing 
+                                                            Vol. 70, No. 9 
+                                                              
+YEAR
+(2010)
+
+                                                        PUBLICATION
+Using group structures for efficient routing in delay tolerant networks  by M. Thomas, S. Phand, and A. Gupta  
+                                                            Ad Hoc Networks 
+                                                            Vol. 7, No. 2 
+                                                             344-362 
+YEAR
+(2009)
+
+                                                        PUBLICATION
+Fault containing self-stabilizing distributed protocols  by S. Ghosh, A. Gupta, S. V. Pemmaraju, and T. Herman  
+                                                            Distributed Computing 
+                                                            Vol. 20, No. 1 
+                                                             53-73 
+YEAR
+(2007)
+
+                                                        PUBLICATION
+Coordinated problem solving through resource sharing in a distributed environment  by U. Deshpande, A. Gupta, and A. Basu  
+                                                            IEEE Transactions on Systems, Man, and Cybernatics Part-B 
+                                                            Vol. 35, No. 2 
+                                                             345-358 
+YEAR
+(2005)
+
+                                                        PUBLICATION
+A self-stabilizing algorithm for the maximum flow problem  by S. Ghosh, A. Gupta, and S. V. Pemmaraju  
+                                                            Distributed Computing 
+                                                            Vol. 10 
+                                                             167-180 
+YEAR
+(1997)
+
+                                                        Ph.D. Students
+STUDENT
+Subhrangsu Mandal
+Area of Research: 
+Distributed Systems
+STUDENT
+Soumadip Biswas
+Area of Research: 
+Networking
+STUDENT
+John C. John
+Area of Research: 
+Multi-domain Distributed Security
+
+NAME
+Bivas Mitra
+EMAIL
+bivas@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-282358
+                                                                        
+WEBSITE
+http://cse.iitkgp.ac.in/~bivasm/
+AWARDS
+SAP Labs India Doctoral Fellow
+AWARDS
+National Doctoral Fellowship
+AWARDS
+DAAD-IIT Faculty Exchange
+RESEARCH
+My research interest revolves around different aspects of networks, ranging from social networks to smartphone devices. In the social network context, we focus on the different online, location based and event based social network datasets and investigate the influence of information diffusion on the popularity of different stakeholders such as tweet, businesses and groups. In the mobile context, we leverage on the user&rsquo;s smartphone engagement to recognize her physical activities, group activities as well as to detect the emotional state of the user.
+                                                    
+PUBLICATION
+Predicting Group Success in Meetup  by Soumajit Pramanik, Midhun Gundapuneni, Sayan Pathak, Bivas Mitra  
+                                                            ICWSM 2016 
+                                                             
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+On the Role of Mentions on Tweet Virality  by Soumajit Pramanik, Maximilien Danisch, Qinna Wang, Anand Kumar, Sumanth Bandi, Jean-Loup Guillaume and Bivas Mitra  
+                                                            DSAA 2016 
+                                                             
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+ActivPass: Your Daily Activity is Your Password  by Sourav Kumar Dandapat, Swadhin Pradhan, Bivas Mitra, Romit Roy Choudhury, Niloy Ganguly  
+                                                            ACM SIGCHI 2015 
+                                                             
+                                                              
+YEAR
+(2015)
+
+                                                        PUBLICATION
+Complementary usage of Tips and Reviews for Location Recommendation in Yelp  by Saurabh Gupta, Sayan Pathak, Bivas Mitra  
+                                                            PA-KDD 2015 
+                                                             
+                                                              
+YEAR
+(2015)
+
+                                                        PUBLICATION
+UrbanEye: An Outdoor Localization System for Public Transport  by Rohit Verma, Aviral Shrivastava, Bivas Mitra, Sujoy Saha, Niloy Ganguly, Subrata Nandi and Sandip Chakraborty  
+                                                            IEEE INFOCOM 2016 
+                                                             
+                                                              
+YEAR
+(2016)
+
+                                                        PROJECTS
+Analyzing the Dynamics of Critical Information Diffusion on Social Media: A Network Science Initiative (DyCiN)&nbsp;Indo-Belgian Research  and  Technology Cooperation
+PROJECTS
+Evolving communities and information spreading&nbsp;Indo-French Centre for the promotion of Avanced Research (CEFIPRA)
+PROJECTS
+Google Unrestricted Fund for Social Computing&nbsp;GOOGLE INDIA PVT. LTD
+PROJECTS
+NSF and Intel grants to Georgia State University&nbsp;NSF and Intel Grants to Georgia State University
+PROJECTS
+Post disaster situation analysis and resource management using delay tolerant peer to peer wireless networks (DISARM)&nbsp;Information Technology Research Academy (ITRA)
+PROJECTS
+Real Time Failure Prediction System&nbsp;NetApp India Private Limited
+PROJECTS
+Real time fault prediction system&nbsp;NetApp India Private Limited
+PROJECTS
+Teaching Learing Centre for Internet-of-things&nbsp;MHRD, Department of Higher Education, NMEICT, New Delhi
+Ph.D. Students
+STUDENT
+Soumajit Pramanik
+Area of Research: 
+Interdependent Networks
+STUDENT
+Surjya Ghosh
+Area of Research: 
+Mobile Networks and Applications
+STUDENT
+Ayan Kumar Bhowmick
+Area of Research: 
+Social Networks
+STUDENT
+Rohit Verma
+Area of Research: 
+Smartphone Computing
+STUDENT
+Snigdha Das
+Area of Research: 
+Activity Sensing
+MS Students
+STUDENT
+Subhendu Khatuya
+Area of Research: 
+Recommendation system
+
+NAME
+Chittaranjan Mandal
+EMAIL
+chitta@iitkgp.ac.in
+                                                                        
+PHONE
++91-3222-283498
+                                                                        
+PROJECTS
+Design and development of multi-material deposition (MMD) system&nbsp;Department of Science &amp; Technology(DST)
+PROJECTS
+Virtual Labs Phase II&nbsp;MHRD, Department of Higher Education, NMEICT, New Delhi
+Ph.D. Students
+STUDENT
+Kaushal Kishore Sharma
+Area of Research: 
+Eductional Technology
+STUDENT
+Bapi Kar
+Area of Research: 
+Analog VLSI Design Methodology
+STUDENT
+Jasaswi Prasad Mohanty
+Area of Research: 
+Networking
+STUDENT
+Soumya Pande
+Area of Research: 
+Direct slicing in layered manufacturing
+STUDENT
+Devleena Ghosh
+Area of Research: 
+Computation modelling of physical systems
+STUDENT
+Ilora Maity
+Area of Research: 
+Applications of Networks
+MS Students
+STUDENT
+Arindam Das
+Area of Research: 
+Railway Signal Interlocking
+
+NAME
+Debasis Samanta
+EMAIL
+dsamanta@iitkgp.ac.in
+                                                                        
+PHONE
++91-3222-282334
+                                                                        
+WEBSITE
+http://www.nid.iitkgp.ernet.in/DSamanta/
+AWARDS
+Microsoft Valued Professional
+PROJECTS
+Virtual Labs Phase II&nbsp;MHRD, Department of Higher Education, NMEICT, New Delhi
+Ph.D. Students
+STUDENT
+Sreeja S R
+Area of Research: 
+Human Computer Interaction
+STUDENT
+Anushri Saha
+Area of Research: 
+Brain Computing Interface
+STUDENT
+Arpita Chaudhuri
+Area of Research: 
+Big Data Analysis
+STUDENT
+Nirendu Konar
+Area of Research: 
+Data Analytics in Management
+
+NAME
+Debdeep Mukhopadhyay
+EMAIL
+debdeep@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-282352
+                                                                        
+AWARDS
+ISA TechnoInventor Award
+AWARDS
+INSA Young Scientist
+AWARDS
+Indo-USSTF Fellowship
+AWARDS
+INAE Young Engineer
+AWARDS
+IAS Young Associate
+PROJECTS
+Hardware Security in the  Context of a Connected World: Threats and Mitigations&nbsp;BRNS, DAE, MUMBAI
+PROJECTS
+Indigenous design methodologies for elliptic curve cryptography on FPGs&nbsp;Directorate of extramural research &amp; intellectual property rights (ER&amp;IPR), DRDO
+PROJECTS
+Information Security Education and Awareness (ISEA) Project Phase-II&nbsp;Department of Electronics &amp; Information Technology
+PROJECTS
+Next generation secured internet of things (SGDRI)&nbsp;SRIC, IIT KHARAGPUR
+PROJECTS
+Securing internet-of-things using unconventional cryptographic techniques&nbsp;Wipro Limited
+Ph.D. Students
+STUDENT
+Sarani Bhattacharya
+Area of Research: 
+Cryptography and Architecture Security
+STUDENT
+Debapriya Basu Roy
+Area of Research: 
+Cryptography
+STUDENT
+Urbi Chatterjee
+Area of Research: 
+Hardware Security
+STUDENT
+Sikhar Patranabis
+Area of Research: 
+Cryptography
+STUDENT
+Souvik Sonar
+Area of Research: 
+Cryptography
+STUDENT
+Manaar Alam
+Area of Research: 
+Machine Learning in Security
+STUDENT
+Brojo Gopal Sapui
+Area of Research: 
+Cryptographic Implementations
+STUDENT
+Sayandeep Saha
+Area of Research: 
+Formal Methods in Cryptography
+STUDENT
+Rajat Sadhukhan
+Area of Research: 
+Cryptography
+
+NAME
+Dipankar Sarkar
+EMAIL
+ds@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-283492
+                                                                        
+Ph.D. Students
+STUDENT
+Sudakshina Dutta
+Area of Research: 
+Formal Verification of systems
+
+NAME
+Dipanwita Roy Chowdhury
+RESPONSIBILITY
+Chairman, Kalpana Chawla Space Technology Cell
+EMAIL
+drc@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-283490
+                                                                        
+PROJECTS
+Design and efficient implementation of advanced encryption and decryption techniques for use in spacecraft communication&nbsp;ISRO, IIT KHARAGPUR CELL
+PROJECTS
+Design of broadband rectifying antenna for RF energy scavenging applications&nbsp;SERC Division, Department of Science &amp; Technology
+PROJECTS
+Indigeneous Authenticated Encryption for Satellite Communication&nbsp;KCSTC
+PROJECTS
+ISRO-IIT KHARAGPUR SPACE TECHNOLOGY CELL&nbsp;ISRO HQ
+Ph.D. Students
+STUDENT
+Swapan Maiti
+Area of Research: 
+Cellular Automata
+STUDENT
+Souvik Sur
+Area of Research: 
+Cryptology
+MS Students
+STUDENT
+Anindya Ganguly
+Area of Research: 
+Cryptography
+STUDENT
+Tapadyoti Banerjee
+Area of Research: 
+Cryptography and Security
+
+NAME
+Indranil Sengupta
+EMAIL
+isg@iitkgp.ac.in
+                                                                        
+PHONE
++91-3222-283496
+                                                                        
+PROJECTS
+TEPP OUTREACH CENTRE&nbsp;Department of Science &amp; Technology(DST)
+
+NAME
+Jayanta Mukhopadhyay
+EMAIL
+jay@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-283484
+                                                                        
+AWARDS
+INSA Young Scientist (1992)
+AWARDS
+Huboldt Research Fellow (2001)
+AWARDS
+Fellow of INAE (2009)
+RESEARCH
+The primary area of research is image and video processing. Some of the research problems in these areas, presently being pursued, are  development of image and video processing algorithms in the compressed domain, gait analysis, image inpainting, satellite image processing, distributed video coding, robot navigation, document image processing,  techniques for application in health care and medical informatics, etc.  He also works  in digital geometry and its application in developing image processing algorithms. The other areas of interest include assistive technology, cognitive processing,  computational phylogenetics and bioinformatics.
+                                                    
+PROJECTS
+Centre of Excellence in robotics&nbsp;SRIC, IIT KHARAGPUR
+PROJECTS
+Cooperative multi - UAV exploration&nbsp;SRIC, IIT KHARAGPUR
+PROJECTS
+Cuff-less estimation of blood pressure using photoplethysmography for early assessment of hypertension and cardiovascular disease in Rural Population&nbsp;MHRD
+PROJECTS
+Development of a Remote Healthcare Delivery System&nbsp;IoTimize LLC
+PROJECTS
+Development of low cost wearable sensor harness-based remote monitoring system for sick patients under five years age&nbsp;MHRD
+PROJECTS
+Development of OCR and PDF viewer&nbsp;ARC Document Solutions India Pvt. Ltd.
+PROJECTS
+Effective Drug Repurposing Through Literature &amp; Patent Mining, Data Integration &amp; Development of Systems Pharmacology Platform&nbsp;MHRD
+PROJECTS
+Expansion of telemedicine project in Tripura&nbsp;Webel Electronic Communication Systems Ltd,
+PROJECTS
+Predicting Cancer treatment outcomes of lung and colo-rectal cancer by modeling and analysis of anatomic and metabolic images&nbsp;MHRD
+PROJECTS
+Research and development in the area of information in health care and medical informatics&nbsp;Various Govt. and Private Agencies
+PROJECTS
+Resilence, recovery and re-integration of psychological health in young adults&nbsp;MHRD
+PROJECTS
+Robo-soccer research by Kharagpur Robot Soccer Students Group&nbsp;SRIC, IIT KHARAGPUR
+PROJECTS
+Robot as a social assistance and robotic framework for exploring rugged and potentially hazardous terrain&nbsp;SRIC, IIT KHARAGPUR
+PROJECTS
+Signals &amp; systems for life science&nbsp;MHRD
+PROJECTS
+Whole cell modeling and simulation in bacterium escherichia coli (SGIGC)&nbsp;SRIC, IIT KHARAGPUR
+Ph.D. Students
+STUDENT
+Dr Arunava Biswas
+Area of Research: 
+Medical Informatics
+STUDENT
+Raj Bhagath Pudi
+Area of Research: 
+Video Coding
+STUDENT
+Saikat Basu
+Area of Research: 
+Medical Imaging and Image Processing
+STUDENT
+Soumyadeep Dey
+Area of Research: 
+Image Processing &amp; Pattern Recognition
+STUDENT
+Soumabha Bhowmick
+Area of Research: 
+Robotics and computer vision
+STUDENT
+Bijju Kranthi Veduruparthi
+Area of Research: 
+Computer Vision
+STUDENT
+Nandedkar Amit Vijay
+Area of Research: 
+Image and video processing
+STUDENT
+Anup Kumar Roy
+Area of Research: 
+Medical Embedded Systems
+STUDENT
+Shashaank M A
+Area of Research: 
+Image Processing
+STUDENT
+Jit Mukherjee
+Area of Research: 
+Image Processing and data analytics
+STUDENT
+Aritra Mahapatra
+Area of Research: 
+Bioinformatics and image processing
+STUDENT
+Sudipta Ghosh
+Area of Research: 
+Embedded Systems and Medical Instrumentation
+STUDENT
+Tushar Dilip Mungle
+Area of Research: 
+Medical Image Analysis
+STUDENT
+Piyush Kanti Bhunre
+Area of Research: 
+Discrete geometry
+STUDENT
+Himadri Sekhar Bhunia
+Area of Research: 
+Object Tracking and Formation Control
+STUDENT
+Jayasree Saha
+Area of Research: 
+Image Processing
+MS Students
+STUDENT
+K Sai Ram
+Area of Research: 
+Image processing and robotics
+STUDENT
+Romil Roy
+Area of Research: 
+Computer Science with Psychological Applications
+STUDENT
+Chaudhari Ushasi Subhasis Sucharita
+Area of Research: 
+Image Processing
+STUDENT
+M Sai Phani Kumar
+Area of Research: 
+Image Processing
+STUDENT
+Dipannita Podder
+Area of Research: 
+Image Processing
+STUDENT
+Ayan Chakraborty
+Area of Research: 
+Biomedical signal processing
+STUDENT
+Ankita Saha
+Area of Research: 
+Natural Language Processing
+
+NAME
+Krothapalli Sreenivasa Rao
+EMAIL
+ksrao@sit.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-282336
+                                                                        
+WEBSITE
+http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bYmWU
+PUBLICATION
+Prosody modification using instants of significant excitation  by K. Sreenivasa Rao and B. Yegnanarayana  
+                                                            IEEETransactions on Audio, Speech and Language Processing 
+                                                            Vol. 14, IEEE 
+                                                             972 - 980 
+YEAR
+(2006)
+
+                                                        PUBLICATION
+Determination of instants of significant excitation in speech using Hilbert envelope and group delay function  by K. Sreenivasa Rao, S. R. M. Prasanna and B. Yegnanarayana  
+                                                            IEEE Signal Processing Letters 
+                                                            Vol. 14, IEEE 
+                                                             762 - 765 
+YEAR
+(2007)
+
+                                                        PUBLICATION
+Duration modification using Glottal Closure Instants and Vowel Onset Points  by K. Sreenivasa Rao and B. Yegnanarayana  
+                                                            Speech Communication 
+                                                            Vol. 59, Elsevier 
+                                                             1263 - 1269 
+YEAR
+(2009)
+
+                                                        PUBLICATION
+Voice Conversion by Mapping the Speaker-specific features using Pitch Synchronous Approach  by K. Sreenivasa Rao  
+                                                            Computer Speech and Language 
+                                                            Vol. 24, Elsevier 
+                                                             474 - 494 
+YEAR
+(2010)
+
+                                                        PUBLICATION
+Vowel Onset Point Detection for Low Bit Rate Coded Speech  by Anil Kumar Vuppala, Jainath Yadav, Saswat Chakrabarti and K. Sreenivasa Rao  
+                                                            IEEETransactions on Audio, Speech and Language Processing 
+                                                            Vol. 20, No. 6, IEEE 
+                                                             1894 - 1903 
+YEAR
+(2012)
+
+                                                        PUBLICATION
+Non -Uniform Time Scale Modification Using Instants of Significant Excitation and Vowel Onset Points  by K. Sreenivasa Rao and Anil Kumar Vuppala  
+                                                            Speech Communication 
+                                                            Vol. 55, No. 6, Elsevier 
+                                                             745 - 756 
+YEAR
+(2013)
+
+                                                        PUBLICATION
+Two -Stage Intonation Modeling using Feedforward Neural Networks for syllable based Text -to-Speech Synthesis  by V. Ramu Reddy and K. Sreenivasa Rao  
+                                                            Computer Speech and Language 
+                                                            Vol. 27, Elsevier 
+                                                             1105 - 1126 
+YEAR
+(2013)
+
+                                                        PUBLICATION
+Detection of Vowel Offset Point from Speech Signal  by Jainath Yadav and K. Sreenivasa Rao  
+                                                            Signal Processing Letters 
+                                                            Vol. 20, No. 4, IEEE 
+                                                             299 - 302 
+YEAR
+(2013)
+
+                                                        PUBLICATION
+Time - Domain Deterministic Plus Noise Model based Hybrid Source Modeling for HMM - Based Speech Synthesis  by N. P. Narendra and K. Sreenivasa Rao  
+                                                            Speech Communication 
+                                                            Vol. 77, Elsevier 
+                                                             65 - 83 
+YEAR
+(2016)
+
+                                                        PROJECTS
+Centre of Excellence in robotics&nbsp;SRIC, IIT KHARAGPUR
+PROJECTS
+Decoding and exploring ancient classification of Indian music through machine learning method and audience response&nbsp;MHRD
+PROJECTS
+Robot as a social assistance and robotic framework for exploring rugged and potentially hazardous terrain&nbsp;SRIC, IIT KHARAGPUR
+Ph.D. Students
+STUDENT
+Jainath Yadav
+Area of Research: 
+Speech Processing
+STUDENT
+Pradeep R
+Area of Research: 
+Music Signal Processing
+STUDENT
+Tanumay Mandal
+Area of Research: 
+Speech Processing
+STUDENT
+Sutapa Bhattacharya
+Area of Research: 
+Speech Processing
+STUDENT
+Kiran Reddy  M
+Area of Research: 
+Speech Processing
+STUDENT
+Pradeep R
+Area of Research: 
+Speech Processing
+STUDENT
+Saikat Biswas
+Area of Research: 
+Audio Data Analytics
+STUDENT
+Saurabh Bandhu
+Area of Research: 
+Speech Processing
+STUDENT
+Kishore Kumar R
+Area of Research: 
+Speech Processing
+STUDENT
+Kumud Tripathi
+Area of Research: 
+Speech Processing
+STUDENT
+Debopriyo Banerjee
+Area of Research: 
+Data Analytics
+STUDENT
+Abhijit Debnath
+Area of Research: 
+Multimedia Data Analytics
+STUDENT
+Gurunath Reddy M
+Area of Research: 
+Music Signal Processing
+MS Students
+STUDENT
+Haque  Arijul
+Area of Research: 
+Speech Processing
+STUDENT
+Arup Kumar Dutta
+Area of Research: 
+Speech Processing
+STUDENT
+Gurunath Reddy M
+Area of Research: 
+Speech Processing
+STUDENT
+Prasenjit Dhara
+Area of Research: 
+Speech Processing
+
+NAME
+Niloy Ganguly
+EMAIL
+niloy@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-283460
+                                                                        
+WEBSITE
+http://www.facweb.iitkgp.ernet.in/~niloy/
+PUBLICATION
+GenPerm: A Unified Method for Detecting Non-overlapping and Overlapping Communities.  by Tanmoy Chakraborty, Suhansanu Kumar, Niloy Ganguly, Animesh Mukherjee, Sanjukta Bhowmick.  
+                                                            IEEE Trans. Knowl. Data Eng. 
+                                                            28(8) 
+                                                             2101-2114 
+YEAR
+(2016)
+
+                                                        PUBLICATION
+STRM: A Sister Tweet Reinforcement Process for Modeling Hashtag Popularity,  by Bidisha Samanta, Abir De, Niloy Ganguly  
+                                                            INFOCOM 
+                                                            Atlanta, GA 
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+Discriminative Link Prediction using Local, Community and Global Signals  by Abir De, Sourangshu Bhattacharya, Sourav Sarkar, Niloy Ganguly, Soumen Chakraborty  
+                                                            IEEE Trans. Knowl. Data Eng. 
+                                                            28(8) 
+                                                             2057-2070 
+YEAR
+(2016)
+
+                                                        PUBLICATION
+Learning and Forecasting Opinion Dynamics in Social Network  by Abir De, Isabel Valera, Niloy Ganguly, Sourangshu Bhattacharya, Manuel Gomez-Rodrigue  
+                                                            NIPS 
+                                                             
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+UrbanEye: An Outdoor Localization System for Public Transport  by Rohit Verma, Aviral Shrivastava, Bivas Mitra, Sujoy Saha, Niloy Ganguly, Subrata Nandi and Sandip Chakraborty  
+                                                            INFOCOM 
+                                                            San Fransisco, USA 
+                                                             1-9 
+YEAR
+(2016)
+
+                                                        PUBLICATION
+On the Wisdom of Experts vs. Crowds: Discovering Trustworthy Topical News in Microblogs  by M. Billal  Zafar, Parantapa Bhattacharya, Niloy Ganguly, Saptarshi Ghosh, Krishna. P. Gummadi.  
+                                                            CSCW 
+                                                            San Fransisco, USA 
+                                                             437-450 
+YEAR
+(2016)
+
+                                                        PUBLICATION
+Permanence and Community Structure in Complex Networks,  by Tanmoy Chakraborty, Sriram, Niloy Ganguly, Animesh Mukherjee, Sanjukta Bhowmick,  
+                                                            ACM Transactions on Knowledge Discovery from Data 
+                                                             
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+Time series analysis of temporal networks.  by Sandipan Sikdar, Niloy Ganguly, Animesh  Mukherjee  
+                                                            Euro Physics Journal B 
+                                                            89(1) 
+                                                             1-11 
+YEAR
+(2016)
+
+                                                        PUBLICATION
+Distinguishing between Topical and Non-topical Information Diffusion Mechanisms in Social Media,  by Przemyslaw Grabowicz, Niloy Ganguly and Krishna Gummadi  
+                                                            ICWSM 
+                                                             
+                                                             151-160 
+YEAR
+(2016)
+
+                                                        PROJECTS
+Analyzing the Dynamics of Critical Information Diffusion on Social Media: A Network Science Initiative (DyCiN)&nbsp;Indo-Belgian Research  and  Technology Cooperation
+PROJECTS
+Classification &amp; Progression Modelling of Cardiovascular &amp; Pulmonary Diseases Using Advanced Data Analytics &amp; Machine Learning Techniques&nbsp;IoTimize LLC
+PROJECTS
+Data driven approaches for inferring opinion dynamics on social networks&nbsp;Department of Science &amp; Technology(DST)
+PROJECTS
+Design and Development of Security Module to Prevent Information Leakage from Android Systems&nbsp;Bharat Electronics Ltd. (A Govt. of India Enterprise) Central Research Laboratory
+PROJECTS
+Efficiently Managing Storage Space in IOT (Internet of Things)&nbsp;Hewlett Packard (India) Software Operations Private Limited
+PROJECTS
+Evolving communities and information spreading&nbsp;Indo-French Centre for the promotion of Avanced Research (CEFIPRA)
+PROJECTS
+Fast and communication efficient distributed supervised machine learning system using big data platforms&nbsp;Science and Engineering Research Board (SERB)
+PROJECTS
+From Word Senses to Entity Roles: Identifying Temporal and Media-specific Scopes Through Big Data Analytics&nbsp;Indian National Science Academy
+PROJECTS
+Google Unrestricted Fund for Social Computing&nbsp;GOOGLE INDIA PVT. LTD
+PROJECTS
+Identifying topical experts on twitter&nbsp;Yahoo
+PROJECTS
+Leveraging bipartite network to investigate the dynamical properties of socio-technical systems&nbsp;Samsung Electronics Co.Ltd.
+PROJECTS
+NSF and Intel grants to Georgia State University&nbsp;NSF and Intel Grants to Georgia State University
+PROJECTS
+Post disaster situation analysis and resource management using delay tolerant peer to peer wireless networks (DISARM)&nbsp;Information Technology Research Academy (ITRA)
+PROJECTS
+QoS Based Network Resource Management to Cater to Dynamic Workload Mobility in Hyperconverged Architecture&nbsp;Hewlett Packard (India) Software Operations Private Limited
+PROJECTS
+Real Time Failure Prediction System&nbsp;NetApp India Private Limited
+PROJECTS
+Real time fault prediction system&nbsp;NetApp India Private Limited
+PROJECTS
+Social computing for e-commerce&nbsp;Flipkart Internet Private Ltd.
+PROJECTS
+Understanding Different Pragmatic Functions Behind Code-Switching&nbsp;MICROSOFT RESEARCH LAB. INDIA PVT. LTD., BANGALORE
+PROJECTS
+Unrestricted Grant for Estimation of Product Response using Temporal Modeling of Past Events&nbsp;Flipkart Internet Private Ltd.
+PROJECTS
+Unrestricted grant for research in social networks and user-generated content&nbsp;Dr. M Chelliah, Head, Academic Relations, Yahoo India R &amp; D
+PROJECTS
+Unrestricted research grant in social computing&nbsp;MICROSOFT CORPORATION
+Ph.D. Students
+STUDENT
+Parantapa Bhattacharya
+Area of Research: 
+Cloud Computing and Online Social Network
+STUDENT
+Abir De
+Area of Research: 
+Social Network
+STUDENT
+Sandipan Sikdar
+Area of Research: 
+Time varying networks
+STUDENT
+Koustav Rudra
+Area of Research: 
+Social Networks
+STUDENT
+Abhijnan Chakraborty
+Area of Research: 
+Social Computing
+STUDENT
+Surjya Ghosh
+Area of Research: 
+Mobile Networks and Applications
+STUDENT
+Madhumita Mallick
+Area of Research: 
+IOT
+STUDENT
+Bidisha Samanta
+Area of Research: 
+Social Network
+MS Students
+STUDENT
+Sankarshan Mridha
+Area of Research: 
+Complex Networks and Machine Learning
+STUDENT
+Subhendu Khatuya
+Area of Research: 
+Recommendation system
+STUDENT
+Supritam Bhattacharjee
+Area of Research: 
+Machine Learning for Healthcare
+
+NAME
+Pabitra Mitra
+EMAIL
+pabitra@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-282356
+                                                                        
+WEBSITE
+http://cse.iitkgp.ac.in/~pabitra/
+AWARDS
+Yahoo Faculty Award
+AWARDS
+INAE Young Engineer Award
+AWARDS
+IBM Faculty Award
+RESEARCH
+Machine learning, pattern recognition, data mining, information retrieval
+                                                    
+PROJECTS
+AI driven real time traffic incident prediction and traffic management&nbsp;MHRD
+PROJECTS
+Application of artificial intelligence in groundwater storage estimation of Indian subcontinent&nbsp;MHRD
+PROJECTS
+Architectural and Algorithmic Optimizations for Speech Based Communication Interfaces on Mobile Device&nbsp;INTEL TECHNOLOGY INDIA PVT. LTD.
+PROJECTS
+Artificial intelligence for societal needs: knowledge discovery and intelligent decision making for solving problems in Indian context related to energy, climate, water, disaster management and traffic&nbsp;IIT KHARAGPUR
+PROJECTS
+Decision support system for infrastructure planning and management in coastal areas of West Bengal&nbsp;MHRD
+PROJECTS
+Deep Learning for Automated Feature Discovery in Hyper Spectral Images&nbsp;ISRO, IIT KHARAGPUR CELL
+PROJECTS
+Development of Cross Lingual Information Access System - CLIA - Phase 2&nbsp;Ministry of Communication &amp; Information Technology, Department of Information Technology
+PROJECTS
+E Business Center of Excellence&nbsp;MHRD
+PROJECTS
+Feature extraction and data mining from climate data&nbsp;MHRD
+PROJECTS
+Improvement of safety of school trips and traffic management around schools in urban areas: Kolkata as a pilot study&nbsp;MHRD
+PROJECTS
+Improving breast cancer diagnosis and prognostication: Automated multimodality image analytics to develop easily accessible quick throughput solutions&nbsp;MHRD
+PROJECTS
+Multimodal and multi-scale imaging for early diagnosis and interventional management of oral pre-cancers and cancer&nbsp;MHRD
+PROJECTS
+Noninvasive characterization of healing and nonhealing wounds and development of honey-biomaterial and stem cell based wound therapy&nbsp;MHRD
+PROJECTS
+Recommendation for Replenishment Purchases&nbsp;Flipkart Internet Private Ltd.
+PROJECTS
+Safety Analytics: Save People at Work from Accident and Injuries&nbsp;TATA STEEL LTD.
+PROJECTS
+Safety Analytics: Save People at Work from Accident and Injuries&nbsp;TATA STEEL LTD.
+PROJECTS
+Safety Analytics: Save People at Work from Accident and Injuries&nbsp;MHRD
+PROJECTS
+Segmentation and design of bus service in urban India: Kolkata as a pilot study&nbsp;MHRD
+PROJECTS
+Unique Representation of Coding Profile along Length of Coil Steel&nbsp;TATA STEEL LIMITED
+PROJECTS
+Yahoo Faculty Award&nbsp;Dr. M Chelliah, Head, Academic Relations, Yahoo India R &amp; D
+Ph.D. Students
+STUDENT
+Anupam Mandal
+Area of Research: 
+Speech Processing
+STUDENT
+Arindam Dasgupta
+Area of Research: 
+Information System
+STUDENT
+Priyanka Sinha
+Area of Research: 
+Text Mining
+STUDENT
+Kousik Biswas
+Area of Research: 
+Algorithmic Development of PSInSAR and GeoImaging for Applications
+STUDENT
+Vaibhav Singh Lodhi
+Area of Research: 
+Development of DIP-based algorithm and laboratory based hyperspectral sensor for GeoResources applications.
+STUDENT
+Debarghya China
+Area of Research: 
+Medical Image Analysis
+STUDENT
+Sreeja S R
+Area of Research: 
+Human Computer Interaction
+STUDENT
+Biswajoy Ghosh
+Area of Research: 
+Correlated Multi-modal Imaging and Analysis of Oral Pre-cancer
+STUDENT
+Meghabriti Pramanik
+Area of Research: 
+Statistical Signal Analysis
+STUDENT
+Saikat Biswas
+Area of Research: 
+Audio Data Analytics
+STUDENT
+Anirban Santara
+Area of Research: 
+Machine learning
+STUDENT
+Anushree Basu
+Area of Research: 
+Multi-spectral Image Processing and Human Monitoring
+MS Students
+STUDENT
+Sonam Singh
+Area of Research: 
+Cl;imate Data Mining
+STUDENT
+Prabir Mallick
+Area of Research: 
+Transportation Analytics
+STUDENT
+Sulagna Gope
+Area of Research: 
+Climate Data Mining
+STUDENT
+Pallavi Mitra
+Area of Research: 
+Speech Processing in GPGPU platforms
+STUDENT
+Malay Pramanick
+Area of Research: 
+Data Mining
+STUDENT
+Saptarshi Misra
+Area of Research: 
+Machine Learning
+STUDENT
+Omprakash Chakraborty
+Area of Research: 
+Spatial Web Services
+STUDENT
+Subhadeep Mandal
+Area of Research: 
+Data Analytics
+STUDENT
+Aditi Chandra
+Area of Research: 
+AI use for water
+STUDENT
+Samridha Kumar
+Area of Research: 
+Data analytics
+
+NAME
+Pallab Dasgupta
+RESPONSIBILITY
+Dean, SRIC
+EMAIL
+pallab@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-283470
+                                                                        
+WEBSITE
+http://cse.iitkgp.ac.in/~pallab
+AWARDS
+INSA YoungScientist Medal 1999
+AWARDS
+INAE Young Engineer Medal 2002
+AWARDS
+IESA Technomentor Award 2012
+AWARDS
+Fellow of Indian Academy of Sc
+AWARDS
+Fellow of INAE
+PUBLICATION
+Formal Interpretation of Assertion Based Features on AMS Designs  by Antonio A Bruto Da Costa, Pallab Dasgupta  
+                                                            IEEE Design and Test 
+                                                            Vol 32, No 1, 
+                                                             9-17 
+YEAR
+(2015)
+
+                                                        PUBLICATION
+Counterexample Ranking Using Mined Invariants  by S.Mitra, A.Banerjee, Pallab Dasgupta, Harish Kumar  
+                                                            IEEE Transactions on Computer Aided Design of Integrated Circuits and Systems 
+                                                            Vol 32, No 12, 
+                                                             1978-1991 
+YEAR
+(2013)
+
+                                                        PUBLICATION
+Auxiliary Specifications for Context-Sensitive Monitoring of AMS assertions  by S.Mukherjee, Pallab Dasgupta, S. Mukhopadhyay  
+                                                            IEEE Transactions on Computer Aided Design of Integrated Circuits and Systems 
+                                                            Vol 30, No 10, 
+                                                             1446-1457 
+YEAR
+(2011)
+
+                                                        PUBLICATION
+CHASSIS: A Platform for Verifying PMU Integration using Auto-Generated Behavioral Models  by A.Ain, D.Pal, Pallab Dasgupta, S.Mukhopadhyay, R. Mukhopadhyay, John Gough  
+                                                            ACM Transactions on Design Automation of Electronic Systems 
+                                                            Vol 16, No 3, 
+                                                              
+YEAR
+(2011)
+
+                                                        PUBLICATION
+Parametric Analysis of Real Time Response Guarantees on Interacting Software Components  by M.Dixit, S.Ramesh, Pallab Dasgupta  
+                                                            US PATENT No: US 8,082,140 
+                                                            Dec 20 
+                                                              
+YEAR
+(2011)
+
+                                                        PUBLICATION
+A Roadmap for Formal Property Verification  by Pallab Dasgupta  
+                                                            Springer 
+                                                             
+                                                              
+YEAR
+(2006)
+
+                                                        PUBLICATION
+Formal Verification of Architectural Power Intent  by A.Hazra, S.Goyal, Pallab Dasgupta and A. Pal  
+                                                            IEEE Transactions on VLSI Systems 
+                                                            Vol 21, No 3, 
+                                                             78-91 
+YEAR
+(2013)
+
+                                                        PUBLICATION
+Instrumenting AMS Assertion Verification on Commercial Platforms  by R.Mukhopadhyay, S. K. Panda, Pallab Dasgupta, John Gough  
+                                                            ACM Transactions on Design Automation of Electronic Systems 
+                                                            Vol 14, No 2, 
+                                                             21:1-21:47 
+YEAR
+(2009)
+
+                                                        PROJECTS
+Artificial intelligence for societal needs: knowledge discovery and intelligent decision making for solving problems in Indian context related to energy, climate, water, disaster management and traffic&nbsp;IIT KHARAGPUR
+PROJECTS
+Decoding and exploring ancient classification of Indian music through machine learning method and audience response&nbsp;MHRD
+PROJECTS
+Formal Methods for Verification of Power Management in Mixed Signal Designs&nbsp;INTEL CORPORATION, USA.
+PROJECTS
+GENERAL MOTORS ECS CRL FOR EDUCATION&nbsp;General Motors Technical Centre India Pvt. Ltd.
+PROJECTS
+Intel embedded innovation lablet&nbsp;Intel Semiconductor (US) Limited
+PROJECTS
+Intelligent tools for smart electrical grids&nbsp;MHRD
+PROJECTS
+Opened &amp; Intelligent Plug-in Hybrid Electric Vehicle (PHEV) Technologies for Smart Indian Cities&nbsp;MHRD
+PROJECTS
+SANDHI, Science -Technology &amp; Culture - Heritage Interface by IIT Kharagpur&nbsp;MHRD
+PROJECTS
+SYNOPSYS CAD LABORATORY PROJECTS&nbsp;Synopsys (India) Pvt.Ltd.
+PROJECTS
+Synthesizing test programs as directed test families for incremental CPU validation&nbsp;INTEL TECHNOLOGY INDIA PVT. LTD.
+PROJECTS
+To develop a scientific rationale of IELS (Indo-European Langauge Systems) applying a) Computational Linguistics &amp; b) Cognitive Geo-spatial mapping approaches&nbsp;MHRD
+Ph.D. Students
+STUDENT
+Antara Ain
+Area of Research: 
+Validation and Verification of Dynamical Systems
+STUDENT
+Sumana Ghosh
+Area of Research: 
+Formal Verification
+STUDENT
+Rajorshee Raha
+Area of Research: 
+Validation of Embedded Real Time Control
+STUDENT
+Rajib Lochan Jana
+Area of Research: 
+Formal Fethods for Embedded System Design
+STUDENT
+Pradeep R
+Area of Research: 
+Music Signal Processing
+STUDENT
+Bruto Da Costa Antonio Anastasio
+Area of Research: 
+Formal Verification
+STUDENT
+Sudipa Mandal
+Area of Research: 
+Formal Verification
+STUDENT
+Thakkar Jay Ashwinbhai
+Area of Research: 
+Formal Verification
+STUDENT
+Bhushan Govind Naware
+Area of Research: 
+Formal Verification
+STUDENT
+Sayandeep Saha
+Area of Research: 
+Formal Methods in Cryptography
+MS Students
+STUDENT
+Sayandeep Sanyal
+Area of Research: 
+Formal Verification
+
+NAME
+Partha Bhowmick
+EMAIL
+pb@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-283468
+                                                                        
+PROJECTS
+Centre of Excellence in robotics&nbsp;SRIC, IIT KHARAGPUR
+PROJECTS
+Cooperative multi - UAV exploration&nbsp;SRIC, IIT KHARAGPUR
+PROJECTS
+Development of OCR and PDF viewer&nbsp;ARC Document Solutions India Pvt. Ltd.
+Ph.D. Students
+STUDENT
+Papia Mahato
+Area of Research: 
+Digital geometry
+STUDENT
+Piyush Kanti Bhunre
+Area of Research: 
+Discrete geometry
+STUDENT
+Ashutosh Soni
+Area of Research: 
+Computer Graphics
+MS Students
+STUDENT
+Chaudhari Ushasi Subhasis Sucharita
+Area of Research: 
+Image Processing
+
+NAME
+Partha Pratim Chakrabarti
+RESPONSIBILITY
+Chairman, Senate
+EMAIL
+director@iitkgp.ernet.in
+                                                                        
+WEBSITE
+http://iitkgp.ac.in/fac-profiles/showprofile.php?empcode=ZZmVV&depts_name=CS
+AWARDS
+Swarnajayanti Fellowship
+AWARDS
+Shanti Swarup Bhatnagar Prize
+AWARDS
+President of India Gold Medal
+AWARDS
+INSA Young Scientist Award
+AWARDS
+INAE Young Engineer
+PUBLICATION
+Heuristic search through islands  by Chakrabarti, P.P., Ghose, S., DeSarkar, S.C  
+                                                            Artificial.  Intelligence 
+                                                            29 
+                                                             339 - 347 
+YEAR
+(1986)
+
+                                                        PUBLICATION
+Heuristic search in restricted memory  by Chakrabarti, P.P., Ghose, S., Acharya A. and DeSarkar, S.C  
+                                                            Artificial Intelligence 
+                                                            41 
+                                                             197 - 221 
+YEAR
+(1989)
+
+                                                        PUBLICATION
+Searching Game Trees under a Partial order  by Dasgupta, P., Chakrabarti, P.P., De Sarkar, S.C.  
+                                                            Artificial Intelligence 
+                                                            82 
+                                                             237 - 257 
+YEAR
+(1996)
+
+                                                        PUBLICATION
+Partial Precedence Constrained Scheduling  by Chakrabarti, P.P.  
+                                                            IEEE Transactions on Computers 
+                                                            48 (10) 
+                                                             1127 - 1130 
+YEAR
+(1999)
+
+                                                        PUBLICATION
+A synthesis system for analog circuits based on evolutionary search and topological reuse  by T. R. Dastidar, P. P. Chakrabarti, P. Ray  
+                                                            IEEE Transactions on Evolutionary Computation 
+                                                            9(2) 
+                                                             211-224 
+YEAR
+(2005)
+
+                                                        PUBLICATION
+Robustness Analysis of Embedded Control Systems with respect to Signal Perturbations: Finding Minimal Counterexamples using Fault Injection  by S. G. Vadlamudi, P. P. Chakrabarti  
+                                                            IEEE Transactions on Dependable and Secure Computing (TDSC) 
+                                                             
+                                                             48-58 
+YEAR
+(2014)
+
+                                                        PUBLICATION
+Layout-Aware Mixture Preparation of Biochemical Fluids on Application-Specific Digital Microfluidic Biochips  by Sudip Roy, Partha Pratim Chakrabarti, Srijan Kumar, Krishnendu Chakrabarty, Bhargab B. Bhattacharya  
+                                                            ACM Trans. Design Autom. Electr. Syst., 
+                                                            20(3) 
+                                                             45 pages 
+YEAR
+(2015)
+
+                                                        PROJECTS
+A deep validation study of Indian Language system based on patterns of a) comparative Philology, Phonology &amp; Phonetics &amp; b) Psycho-Physics of Varnamala&nbsp;MHRD
+PROJECTS
+AI driven real time traffic incident prediction and traffic management&nbsp;MHRD
+PROJECTS
+Artificial intelligence for societal needs: knowledge discovery and intelligent decision making for solving problems in Indian context related to energy, climate, water, disaster management and traffic&nbsp;IIT KHARAGPUR
+PROJECTS
+Centre of excellence for training and research in Microfluidics&nbsp;IIT KHARAGPUR
+PROJECTS
+Centre of Excellence in robotics&nbsp;SRIC, IIT KHARAGPUR
+PROJECTS
+Development of national digital library (NDL) of India - towards building a national asset&nbsp;National Mission on Education through Communication &amp; Information Technology (NMEICT)
+PROJECTS
+Formal Methods for Verification of Power Management in Mixed Signal Designs&nbsp;INTEL CORPORATION, USA.
+PROJECTS
+GENERAL MOTORS ECS CRL FOR EDUCATION&nbsp;General Motors Technical Centre India Pvt. Ltd.
+PROJECTS
+INSTITUTIONAL DEVELOPMENT PROJECT (IDF)&nbsp;SRIC, IIT KHARAGPUR
+PROJECTS
+Intel embedded innovation lablet&nbsp;Intel Semiconductor (US) Limited
+PROJECTS
+J C Bose Fellowship&nbsp;Science and Engineering Research Board (SERB)
+PROJECTS
+Opened &amp; Intelligent Plug-in Hybrid Electric Vehicle (PHEV) Technologies for Smart Indian Cities&nbsp;MHRD
+PROJECTS
+Research on AGV&nbsp;SRIC, IIT KHARAGPUR
+PROJECTS
+SANDHI, Science -Technology &amp; Culture - Heritage Interface by IIT Kharagpur&nbsp;MHRD
+PROJECTS
+SYNOPSYS CAD LABORATORY PROJECTS&nbsp;Synopsys (India) Pvt.Ltd.
+PROJECTS
+To develop a scientific rationale of IELS (Indo-European Langauge Systems) applying a) Computational Linguistics &amp; b) Cognitive Geo-spatial mapping approaches&nbsp;MHRD
+PROJECTS
+User emotion classification from keyboard keystroke&nbsp;SRIC, IIT KHARAGPUR
+Ph.D. Students
+STUDENT
+Shreya Matilal
+Area of Research: 
+Internet and Media Law
+STUDENT
+Rajorshee Raha
+Area of Research: 
+Validation of Embedded Real Time Control
+STUDENT
+Gaurav Saxena
+Area of Research: 
+Artificial Intelligence
+
+NAME
+Partha Pratim Das
+RESPONSIBILITY
+Head, Rajendra Mishra School of Engineering Entrepreneurship
+EMAIL
+ppd@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-281998
+                                                                        
+PROJECTS
+Centre of Excellence in robotics&nbsp;SRIC, IIT KHARAGPUR
+PROJECTS
+Cooperative multi - UAV exploration&nbsp;SRIC, IIT KHARAGPUR
+PROJECTS
+Development of national digital library (NDL) of India - towards building a national asset&nbsp;National Mission on Education through Communication &amp; Information Technology (NMEICT)
+PROJECTS
+Effective Drug Repurposing Through Literature &amp; Patent Mining, Data Integration &amp; Development of Systems Pharmacology Platform&nbsp;MHRD
+PROJECTS
+Hands-free gesture control for immersive image navigation&nbsp;KCSTC
+PROJECTS
+Pilot Scale Study on Local Inhabitants Reduction of Fear to AAI Programme as Par Demand of Local Administration&nbsp;Airport Authority of India
+PROJECTS
+Predicting Cancer treatment outcomes of lung and colo-rectal cancer by modeling and analysis of anatomic and metabolic images&nbsp;MHRD
+PROJECTS
+Research on AGV&nbsp;SRIC, IIT KHARAGPUR
+Ph.D. Students
+STUDENT
+Tanwi Mallick
+Area of Research: 
+Image Processing
+STUDENT
+Arpita Das
+Area of Research: 
+Electronic Waste Management
+STUDENT
+Bijju Kranthi Veduruparthi
+Area of Research: 
+Computer Vision
+STUDENT
+Sayani Mondal
+Area of Research: 
+A Study of Software Engineering Processes in Software Startups
+STUDENT
+Srijoni Majumdar
+Area of Research: 
+Software Engineering
+STUDENT
+Saptami Ghosh
+Area of Research: 
+3D Reconstruction and Indoor Mapping using SLAM
+STUDENT
+Himadri Bhusan Girija Sankar Bhuyan
+Area of Research: 
+Human Computer Interaction for Digital Heritage
+STUDENT
+Abhijit Debnath
+Area of Research: 
+Multimedia Data Analytics
+STUDENT
+Gurunath Reddy M
+Area of Research: 
+Music Signal Processing
+STUDENT
+Pravanjan Samanta
+Area of Research: 
+Hardware Security
+MS Students
+STUDENT
+K Sai Ram
+Area of Research: 
+Image processing and robotics
+STUDENT
+Shibabroto Banerjee
+Area of Research: 
+Analysis of Plethismographic Signals
+
+NAME
+Partha Sarathi Dey
+EMAIL
+psd@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-283474
+                                                                        
+
+NAME
+Pawan Goyal
+EMAIL
+pawang@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-282370
+                                                                        
+WEBSITE
+http://cse.iitkgp.ac.in/~pawang/
+PUBLICATION
+The role of citation context in predicting long-term citation profiles: an experimental study based on a massive bibliographic text dataset  by Singh, Mayank, Patidar, Vikas, Kumar, Suhansanu, Chakraborty, Tanmoy, Mukherjee, Animesh and Goyal, Pawan  
+                                                            24th ACM Conference on Information and Knowledge Management (CIKM) 
+                                                            Melbourne, Australia 
+                                                              
+YEAR
+(2015)
+
+                                                        PUBLICATION
+Extracting Situational Information from Microblogs during Disaster Events: A Classification-Summarization Approach  by Rudra, Koustav, Ghosh, Shubham, Ganguly, Niloy, Goyal, Pawan and Ghosh, Saptarshi  
+                                                            24th ACM Conference on Information and Knowledge Management (CIKM) 
+                                                            Melbourne, Australia 
+                                                              
+YEAR
+(2015)
+
+                                                        PUBLICATION
+On the formation of circles in co-authorship networks  by Chakraborty, Tanmoy, Patranabis, Sikhar, Goyal, Pawan and Mukherjee, Animesh  
+                                                            21st ACM SIGKDD 
+                                                            Sydney, Australia 
+                                                              
+YEAR
+(2015)
+
+                                                        PUBLICATION
+On the categorization of scientific citation profiles in computer sciences  by Chakraborty, Tanmoy, Kumar, Suhansanu, Goyal, Pawan, Ganguly, Niloy and Mukherjee, Animesh  
+                                                            Communications of the ACM 
+                                                            Vol. 58, No. 9 
+                                                             82-90 
+YEAR
+(2015)
+
+                                                        PUBLICATION
+A Context based Word Indexing Model for Document Summarization  by Goyal, Pawan, Behera, Laxmidhar and McGinnity, TM  
+                                                            IEEE Transactions on Knowledge and Data Engineering 
+                                                            Vol. 25 No. 8 
+                                                             1693-1705 
+YEAR
+(2013)
+
+                                                        PUBLICATION
+Query Representation through Lexical Association for Information Retrieval  by Goyal, Pawan, Behera, Laxmidhar and McGinnity, TM  
+                                                            IEEE Transactions on Knowledge and Data Engineering 
+                                                            Vol. 24 No. 12 
+                                                             2260-2273 
+YEAR
+(2012)
+
+                                                        PUBLICATION
+An automatic approach to identify word sense changes in text media across timescales  by Mitra, Sunny, Mitra, Ritwik, Maity, Suman Kalyan, Riedl, Martin, Biemann, Chris, Goyal, Pawan and Mukherjee, Animesh  
+                                                            JNLE special issue on Graph Methods for NLP 
+                                                            Cambridge University Press 
+                                                              
+YEAR
+(2014)
+
+                                                        PUBLICATION
+FeRoSA: A Faceted Recommendation System for Scientific Articles  by Chakraborty, Tanmoy, Krishna, Amrith, Singh, Mayank, Ganguly, Niloy, Goyal, Pawan and Mukherjee, Animesh  
+                                                            20th Pacific Asia Conference on Knowledge Discovery and Data Mining (PAKDD) 
+                                                            Auckland, New Zealand 
+                                                              
+YEAR
+(2016)
+
+                                                        PROJECTS
+A deep validation study of Indian Language system based on patterns of a) comparative Philology, Phonology &amp; Phonetics &amp; b) Psycho-Physics of Varnamala&nbsp;MHRD
+PROJECTS
+Aspect Based Opinion Extraction for Automated Product Comparison&nbsp;Science and Engineering Research Board (SERB)
+PROJECTS
+Effective Drug Repurposing Through Literature &amp; Patent Mining, Data Integration &amp; Development of Systems Pharmacology Platform&nbsp;MHRD
+PROJECTS
+Google Unrestricted Fund for Social Computing&nbsp;GOOGLE INDIA PVT. LTD
+PROJECTS
+IndicView: Because language is no more a barrier&nbsp;GOOGLE INDIA PVT. LTD
+PROJECTS
+Teaching Learing Centre for Internet-of-things&nbsp;MHRD, Department of Higher Education, NMEICT, New Delhi
+PROJECTS
+To develop a scientific rationale of IELS (Indo-European Langauge Systems) applying a) Computational Linguistics &amp; b) Cognitive Geo-spatial mapping approaches&nbsp;MHRD
+PROJECTS
+Unrestricted Grant for Research in Review Mining&nbsp;Flipkart Internet Private Ltd.
+PROJECTS
+Unrestricted grant for research in social networks and user-generated content&nbsp;Dr. M Chelliah, Head, Academic Relations, Yahoo India R &amp; D
+Ph.D. Students
+STUDENT
+Mayank Singh
+Area of Research: 
+Data Mining, Natural Language Processing, Machine Learning
+STUDENT
+Krishnendu Ghosh
+Area of Research: 
+Artificial Intelligence in Education
+STUDENT
+Abhik Jana
+Area of Research: 
+Word Sense Disambiguation and Discovery
+STUDENT
+Amrith Krishna
+Area of Research: 
+Sanskrit Computational Linguistics
+STUDENT
+Mayank Bhasin
+Area of Research: 
+Spatio-temporal structure of concept representation
+STUDENT
+Binny Mathew
+Area of Research: 
+Language dynamics in text and social media
+STUDENT
+Harshit
+Area of Research: 
+Visual concept representation
+MS Students
+STUDENT
+Paheli Bhattacharya
+Area of Research: 
+Corpus Linguistics
+STUDENT
+Ankan Mullick
+Area of Research: 
+Text summarization
+
+NAME
+Pralay Mitra
+RESPONSIBILITY
+Associate Head, Institute Information Cell
+EMAIL
+pralay@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-282344
+                                                                        
+WEBSITE
+http://cse.iitkgp.ac.in/~pralay/
+RESEARCH
+We are interested in realizing the biological phenomenon thourgh computational and experimental techniques. The focus is on developing new computational algorithms and tools for biological and clinical investigators. 
+
+Protein Interaction Modeling: The correct biological association of a protein molecule with another is the key to understand the function of a protein complex. We aim to develop efficient and effective computational methods to predict protein interaction as an alternative of experimental methods like X-Ray crystallography or NMR. 
+
+Protein Interaction Network: Designing or modeling the function of a protein at the macromolecular level is incomplete without a wholistic view of the total interaction map. Representing a protein as a vertex and their interaction as an edge of the graph we develop methods to infer the role of a protein from global perspective. 
+
+Protein Design and stability analysis: The design and engineering of proteins is readily transforming our lives to </p>
+PUBLICATION
+An evolution-based approach to de novo protein design and case study on Mycobacterium Tuberculosis  by Mitra, P., Shultis, D., Brender, J. R., Czajka, J., Marsh, D., Gray, F., Cierpicki, T., Zhang, Y.  
+                                                            PLoS Computational Biology 
+                                                            9(10) 
+                                                             e1003298 
+YEAR
+(2013)
+
+                                                        PUBLICATION
+Combining Bayes classification and point group symmetry under Boolean framework for enhanced protein quaternary structure inference  by Mitra, P., Pal, D.  
+                                                            Structure 
+                                                            19(3) 
+                                                             304-312 
+YEAR
+(2011)
+
+                                                        PUBLICATION
+EvoDesign: de novo protein design based on structural and evolutionary profiles  by Mitra, P., Shultis, D., Zhang, Y.  
+                                                            Nucleic Acids Research 
+                                                            41 
+                                                             W273-W280 
+YEAR
+(2013)
+
+                                                        PUBLICATION
+Using correlated parameters for improved ranking of protein-protein docking decoys  by Mitra, P., Pal, D.  
+                                                            Journal of Computational Chemistry 
+                                                            32(5) 
+                                                             787-796 
+YEAR
+(2011)
+
+                                                        PUBLICATION
+New measures for estimating surface complementarity and packing at protein-protein interfaces  by Mitra, P., Pal, D.  
+                                                            FEBS Letters 
+                                                            584(6) 
+                                                             1163-1168 
+YEAR
+(2010)
+
+                                                        PUBLICATION
+PRUNE and PROBE  two modular web services for protein-protein docking  by Mitra, P., Pal, D.  
+                                                            Nucleic Acids Research 
+                                                            39 
+                                                             W229-234 
+YEAR
+(2011)
+
+                                                        PROJECTS
+Design &amp; Development of IIT Kharagpur Website&nbsp;IIT KHARAGPUR
+PROJECTS
+Designing proteins with enhanced stability by modulating the entropy in the folded state&nbsp;UGC under India - Israel Joint Research Project - 2014
+PROJECTS
+Multimodal and multi-scale imaging for early diagnosis and interventional management of oral pre-cancers and cancer&nbsp;MHRD
+PROJECTS
+Predictive docking: Improving the performance by refining protein structures&nbsp;ISIRD, SRIC
+PROJECTS
+Unraveling cancer transformation and progression through biological, electro-mechanical and computational techniques&nbsp;MHRD
+PROJECTS
+Whole cell modeling and simulation in bacterium escherichia coli (SGIGC)&nbsp;SRIC, IIT KHARAGPUR
+Ph.D. Students
+STUDENT
+Shyantani Maiti
+Area of Research: 
+Bioinformatics
+STUDENT
+Anupam Banerjee
+Area of Research: 
+Bioinformatics
+STUDENT
+Barnali Das
+Area of Research: 
+Bioinformatics
+STUDENT
+Abantika Pal
+Area of Research: 
+Bioinformatics
+STUDENT
+Angana Biswas
+Area of Research: 
+Cancer Biology
+
+NAME
+Rajat Subhra Chakraborty
+EMAIL
+rschakraborty@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-281792
+                                                                        
+AWARDS
+RECI Award (RAE, U.K.)
+AWARDS
+IEI Young Engineers Award
+AWARDS
+IBM SUR Award
+AWARDS
+IBM Faculty Award
+PUBLICATION
+Reversible Digital Watermarking: Theory and Practices  by R. Naskar and R. S. Chakraborty  
+                                                            Reversible Digital Watermarking: Theory and Practices 
+                                                            Morgan Claypool 
+                                                              
+YEAR
+(2014)
+
+                                                        PUBLICATION
+Multi-level Inline Data Deduplication  by R. S. Chakraborty and B. K. Diddi  
+                                                            U.S. Patent No. 9,311,323 
+                                                             
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+Protection of Intellectual Property Cores Through a Design Flow  by R. S. Chakraborty, S. Narasimhan and S. Bhunia  
+                                                            U.S. patent No. 8,402,401 
+                                                             
+                                                              
+YEAR
+(2014)
+
+                                                        PUBLICATION
+HARPOON: A SoC Design Methodology for Hardware Protection through Netlist Level Obfuscation  by R. S. Chakraborty and S. Bhunia  
+                                                            IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems 
+                                                            28 
+                                                             10 
+YEAR
+(2009)
+
+                                                        PUBLICATION
+Hardware Trojan Detection by Multiple-Parameter Side-Channel Analysis  by S. Narasimhan, D. Du, R. S. Chakraborty, S. Paul, F. Wolff, C. Papachristou, K. Roy and S. Bhunia  
+                                                            IEEE Transactions on Computers 
+                                                            62 
+                                                             2183-2195 
+YEAR
+(2013)
+
+                                                        PUBLICATION
+A Generalized Tamper Localization Approach for Reversible Watermarking Algorithms  by R. Naskar and R. S. Chakraborty  
+                                                            ACM Transactions on Multimedia Computing Communications and Applications 
+                                                            9 
+                                                             19:1-19:22 
+YEAR
+(2013)
+
+                                                        PUBLICATION
+Theory and Application of Delay Constraints in Arbiter PUF  by U. Chatterjee, R. S. Chakraborty, H. Kapoor and D. Mukhopadhyay  
+                                                            ACM Transactions on Embedded Computing Systems 
+                                                            15 
+                                                             10:1-10:20 
+YEAR
+(2016)
+
+                                                        PUBLICATION
+A Case of Lightweight PUF Constructions: Cryptanalysis and Machine Learning Attacks  by D. P. Sahoo, P. H. Nguyen, D. Mukhopadhyay and R. S. Chakraborty  
+                                                            IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems 
+                                                            34 
+                                                             1334-1343 
+YEAR
+(2015)
+
+                                                        PUBLICATION
+High Performance Integer Arithmetic Circuit Design on FPGA: Architecture, Implementation and Design Automation  by A. Palchaudhuri and R. S. Chakraborty  
+                                                            High Performance Integer Arithmetic Circuit Design on FPGA: Architecture, Implementation and Design Automation 
+                                                            Springer 
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+Hardware Security: Design, Threats and Safeguards  by D. Mukhopadhyay and R. S. Chakraborty  
+                                                            Hardware Security: Design, Threats and Safeguards 
+                                                            CRC Press 
+                                                              
+YEAR
+(2014)
+
+                                                        PROJECTS
+Hardware Security in the  Context of a Connected World: Threats and Mitigations&nbsp;BRNS, DAE, MUMBAI
+PROJECTS
+High performance reversible watermarking of digital images: Theory, implementation and impact on medical imaging&nbsp;Science and Engineering Research Board (SERB)
+PROJECTS
+Information Security Education and Awareness (ISEA) Project Phase-II&nbsp;Department of Electronics &amp; Information Technology
+PROJECTS
+Next generation secured internet of things (SGDRI)&nbsp;SRIC, IIT KHARAGPUR
+PROJECTS
+Optimize real time encryption performance for high volume storage data traffic by means of software improvements to Linux (IBM SUR Award)&nbsp;IBM India University Relations
+PROJECTS
+Securing internet-of-things using unconventional cryptographic techniques&nbsp;Wipro Limited
+PROJECTS
+Verification Challenges in Compression &amp; Cryptographic Stacks in Quick Assist Technology&nbsp;INTEL CORPORATION, USA.
+Ph.D. Students
+STUDENT
+Urbi Chatterjee
+Area of Research: 
+Hardware Security
+STUDENT
+Souvik Sonar
+Area of Research: 
+Cryptography
+STUDENT
+Diangarti Bhalang Tariang
+Area of Research: 
+Digital Image Forensics
+STUDENT
+Pravanjan Samanta
+Area of Research: 
+Hardware Security
+MS Students
+STUDENT
+Aniket Roy
+Area of Research: 
+Parallel Processing
+STUDENT
+Vidya Govindan
+Area of Research: 
+Security of IoT and Embedded Systems
+STUDENT
+Pallabi Ghosh
+Area of Research: 
+Image Processing for Hardware Security
+
+NAME
+Rajeev Kumar
+EMAIL
+rkumar@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-283464
+                                                                        
+PROJECTS
+PROGRAMMING &amp; DATA STRUCTURE&nbsp;MHRD
+
+NAME
+Rajib Mall
+RESPONSIBILITY
+Prof-in-Charge, B. C. Roy Technology Hospital
+EMAIL
+rajib@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-283482
+                                                                        
+RESEARCH
+Program source code is not amenable to efficient processing. Consequently, various types of modes of program such as dependency model, flow model, state model, interaction model, etc. can be extracted from source code. Of course, the models would differ in their syntax and sematics for different programming paradigms sporting different programming features and concurrency. Once a suitable program model has been defined, it is used for various software engineering tasks such as test coverage analysis, test case generation, regression test case selection, test prioritixation, optimization, fault-localization, etc.
+                                                    
+PUBLICATION
+A regression test selection technique for embedded software  by Swarnendu Biswas, Rajib Mall, Manoranjan Satpathy  
+                                                            ACM Transactions on Embedded Computer Systems 
+                                                            13(3): 47 
+                                                             47:1 - 47:39 
+YEAR
+(2013)
+
+                                                        PUBLICATION
+A Dynamic Slicing Technique for UML Architectural Models  by Jaiprakash T. Lallchandani, Rajib Mall  
+                                                            IEEE Trans. Software Eng. 
+                                                            37(6) 
+                                                             737-771 
+YEAR
+(2011)
+
+                                                        PUBLICATION
+Task Dependency Analysis for Regression Test Selection of Embedded Programs  by Swarnendu Biswas, Rajib Mall, Manoranjan Satpathy  
+                                                            Embedded Systems Letters 
+                                                            3(4) 
+                                                             117-120 
+YEAR
+(2011)
+
+                                                        PUBLICATION
+System testing for object&amp;#8208;oriented systems with test case prioritization  by D Kundu, M Sarma, D Samanta, R Mall  
+                                                            Software Testing, Verification and Reliability 
+                                                            19 (4) 
+                                                             297-333 
+YEAR
+(2009)
+
+                                                        PUBLICATION
+Automatic test case generation using unified modeling language (UML) state diagrams  by P Samuel, R Mall, AK Bothra  
+                                                            IET software 
+                                                            2 (2) 
+                                                             79-93 
+YEAR
+(2008)
+
+                                                        PUBLICATION
+Automatic test case generation from UML communication diagrams  by P Samuel, R Mall, P Kanth  
+                                                            Information and software technology 
+                                                            49 (2) 
+                                                             158-171 
+YEAR
+(2007)
+
+                                                        PUBLICATION
+Automatic generation of test specifications for coverage of system state transitions  by M Sarma, R Mall  
+                                                            Information and Software Technology 
+                                                            51 (2) 
+                                                             418-432 
+YEAR
+(2009)
+
+                                                        PROJECTS
+Free and open source software for software engineering&nbsp;MHRD, Department of Higher Education, NMEICT, New Delhi
+PROJECTS
+GENERAL MOTORS ECS CRL FOR EDUCATION&nbsp;General Motors Technical Centre India Pvt. Ltd.
+Ph.D. Students
+STUDENT
+Debashis Mukherjee
+Area of Research: 
+Program analysis and testing using machine learning approaches
+STUDENT
+Sourav Sinha
+Area of Research: 
+Software Reliability
+
+NAME
+Rogers Mathew
+EMAIL
+rogers@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-282888
+                                                                        
+WEBSITE
+http://cse.iitkgp.ac.in/~rogers/
+RESEARCH
+Research interests: Graph theory, combinatorics, graph algorithms.&nbsp;
+                                                    
+PUBLICATION
+Separation Dimension of Bounded Degree Graphs  by Noga Alon, Manu Basavaraju, L. Sunil Chandran, Rogers Mathew, Deepak Rajendraprasad  
+                                                            SIAM Journal of Discrete Mathematics 
+                                                             
+                                                             59-64 
+YEAR
+(2015)
+
+                                                        PUBLICATION
+Boxicity and cubicity of product graphs  by L. Sunil Chandran, Wilfried Imrich, Rogers Mathew, Deepak Rajendraprasad  
+                                                            European Journal of Combinatorics 
+                                                             
+                                                             100-109 
+YEAR
+(2015)
+
+                                                        PUBLICATION
+Separation dimension of graphs and hypergraphs  by Manu Basavaraju, L. Sunil Chandran, Martin Charles Golumbic, Rogers Mathew, Deepak Rajendraprasad  
+                                                            Algorithmica 
+                                                             
+                                                             1-18 
+YEAR
+(2016)
+
+                                                        PUBLICATION
+Chordal Bipartite Graphs with High Boxicity  by L. Sunil Chandran, Mathew C. Francis, Rogers Mathew  
+                                                            Graphs and Combinatorics 
+                                                             
+                                                             353-362 
+YEAR
+(2011)
+
+                                                        PUBLICATION
+Cubicity, degeneracy, and crossing number  by Abhijin Adiga, L. Sunil Chandran, Rogers Mathew  
+                                                            European Journal of Combinatorics 
+                                                             
+                                                             2-12 
+YEAR
+(2014)
+
+                                                        PUBLICATION
+A Dirac-type characterization of k-chordal graphs  by R. Krithika, Rogers Mathew, N. S. Narayanaswamy, N. Sadagopan  
+                                                            Discrete Mathematics 
+                                                             
+                                                             2865-2867 
+YEAR
+(2013)
+
+                                                        PUBLICATION
+The induced separation dimension of a graph  by Emile Ziedan, Deepak Rajendraprasad, Rogers Mathew, Martin Charles Golumbic and Jeremie Dusart  
+                                                            WG 
+                                                             
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+Partial List Colouring of Certain Graphs  by Jeannette Janssen, Rogers Mathew, Deepak Rajendraprasad  
+                                                            Electronic Journal of Combinatorics 
+                                                             
+                                                             P3.41 
+YEAR
+(2015)
+
+                                                        PUBLICATION
+Product Dimension of Forests and Bounded Treewidth Graphs  by L. Sunil Chandran, Rogers Mathew, Deepak Rajendraprasad, Roohani Sharma  
+                                                            Electronic Journal of Combinatorics 
+                                                             
+                                                             P42 
+YEAR
+(2013)
+
+                                                        PUBLICATION
+Rainbow Connection Number and Connectivity  by Xueliang Li, Sujuan Liu, L. Sunil Chandran, Rogers Mathew, Deepak Rajendraprasad  
+                                                            Electronic Journal of Combinatorics 
+                                                             
+                                                             P20 
+YEAR
+(2012)
+
+                                                        PROJECTS
+On Dimensions of a Graph&nbsp;ISIRD, SRIC
+Ph.D. Students
+STUDENT
+Tapas Kumar Mishra
+Area of Research: 
+Algorithms and combinatorics
+STUDENT
+Atrayee Majumder
+Area of Research: 
+Graph theory, combinatorics.
+
+NAME
+Sandip Chakraborty
+EMAIL
+sandipc@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-282898
+                                                                        
+WEBSITE
+http://cse.iitkgp.ac.in/~sandipc/
+AWARDS
+NIXI Fellowship 2014
+AWARDS
+INAE Student Project 2014
+AWARDS
+Honorable mention COMSNETS 16
+AWARDS
+DAAD Fellowship 2016
+AWARDS
+Best Paper ICDCN 15
+PUBLICATION
+Analyzing Peer Specific Power Saving in IEEE 802.11s through Queuing Petri Nets: Some Insights and Future Research Directions  by Sandip Chakraborty  
+                                                            IEEE Transactions on Wireless Communications 
+                                                            In Press 
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+Alleviating Hidden and Exposed Nodes in High-Throughput Wireless Mesh Networks  by Sandip Chakraborty, Sukumar Nandi and Subhrendu Chattopadhyay  
+                                                            IEEE Transactions on Wireless Communications 
+                                                            Volume 15, Issue 2 
+                                                             928-937 
+YEAR
+(2016)
+
+                                                        PUBLICATION
+UrbanEye: An Outdoor Localization System for Public Transport  by Rohit Verma, Aviral Shrivastava, Bivas Mitra, Sujoy Saha, Niloy Ganguly, Subrata Nandi and Sandip Chakraborty  
+                                                            proc. of the 35th Annual IEEE International Conference on Computer Communications (IEEE INFOCOM 2016) 
+                                                            San Fransisco, CA, USA 
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+ES2: Managing Link Level Parameters for Elevating Data Rate and Stability in High Throughput WLAN  by Sandip Chakraborty and Subhrendu Chattopadhyay  
+                                                            proc. of the Eighth International Conference on Communication Systems and Networks (COMSNETS 2016) 
+                                                            Bangalore, India 
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+Deciding Handover Points based on Context Aware Load Balancing in a WiFi-WiMAX Heterogeneous Network Environment  by Abhijit Sarma, Sandip Chakraborty, Sukumar Nandi  
+                                                            IEEE Transactions on Vehicular Technology 
+                                                            Volume 65, Issue 1 
+                                                             348-357 
+YEAR
+(2016)
+
+                                                        PUBLICATION
+Dynamic Link Adaptation in IEEE 802.11ac: A Distributed Learning Based Approach  by Raja Karmakar, Samiran Chattopadhyay, and Sandip Chakraborty  
+                                                            proc. of the 41st Annual IEEE Conference on Local Computer Networks (IEEE LCN 2016) 
+                                                            Dubai, UAE 
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+Margdarshak: A Mobile Data Analytics based Commute Time Estimator cum Route Recommender  by Rohit Verma, Aviral Shrivastava, Sandip Chakraborty, and Bivas Mitra  
+                                                            proc. of the ACM MobiSys 3rd International Workshop on Physical Analytics (WPA 2016) 
+                                                            Singapore 
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+CrowdAP: Crowdsourcing Driven AP Coordination for Improving Energy Efficiency in Wireless Access Networks  by Gurman Bhalla, Raja Karmakar, Sandip Chakraborty, and Samiran Chattopadhyay  
+                                                            proc. of the IEEE International Conference on Communications (IEEE ICC 2016) - Green Communications Systems and Networks 
+                                                            Kuala Lumpur, Malaysia 
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+Distributed Service Level Flow Control and Fairness in Wireless Mesh Networks  by Sandip Chakraborty, Sukumar Nandi  
+                                                            IEEE Transactions on Mobile Computing 
+                                                            Volume 14, Issue 11 
+                                                             2229-2243 
+YEAR
+(2015)
+
+                                                        PUBLICATION
+Performance Modeling and Analysis of IEEE 802.11 IBSS PSM in Different Traffic Conditions  by Pravati Swain, Sandip Chakraborty, Sukumar Nandi, Purandar Bhaduri  
+                                                            IEEE Transactions on Mobile Computing 
+                                                            Volume 14, Issue 8 
+                                                             1644-1658 
+YEAR
+(2015)
+
+                                                        PROJECTS
+Design and Development of Security Module to Prevent Information Leakage from Android Systems&nbsp;Bharat Electronics Ltd. (A Govt. of India Enterprise) Central Research Laboratory
+PROJECTS
+Efficiently Managing Storage Space in IOT (Internet of Things)&nbsp;Hewlett Packard (India) Software Operations Private Limited
+PROJECTS
+Google Unrestricted Fund for Social Computing&nbsp;GOOGLE INDIA PVT. LTD
+PROJECTS
+Information Security Education and Awareness (ISEA) Project Phase-II&nbsp;Department of Electronics &amp; Information Technology
+PROJECTS
+Post disaster situation analysis and resource management using delay tolerant peer to peer wireless networks (DISARM)&nbsp;Information Technology Research Academy (ITRA)
+PROJECTS
+QoS Based Network Resource Management to Cater to Dynamic Workload Mobility in Hyperconverged Architecture&nbsp;Hewlett Packard (India) Software Operations Private Limited
+PROJECTS
+Teaching Learing Centre for Internet-of-things&nbsp;MHRD, Department of Higher Education, NMEICT, New Delhi
+PROJECTS
+WiHi: High speed wireless backbones with network resilience and improved user experience&nbsp;ISIRD, SRIC
+Ph.D. Students
+STUDENT
+Soumadip Biswas
+Area of Research: 
+Networking
+STUDENT
+Sumitro Bhaumik
+Area of Research: 
+Distributed and Mobile Computing
+STUDENT
+Abhijit Mondal
+Area of Research: 
+Wireless Networks
+STUDENT
+Rohit Verma
+Area of Research: 
+Smartphone Computing
+STUDENT
+Shubha Brata Nath
+Area of Research: 
+Cloud Computing
+STUDENT
+Snigdha Das
+Area of Research: 
+Activity Sensing
+STUDENT
+Saurabh Arabinda Samanta
+Area of Research: 
+Secure Computing in Hand-held Devices
+MS Students
+
+NAME
+Saptarshi Ghosh
+EMAIL
+saptarshi@cse.iitkgp.ernet.in
+                                                                        
+
+NAME
+Shamik Sural
+RESPONSIBILITY
+Vice-Chairman, ERP
+EMAIL
+shamik@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-282330
+                                                                        
+WEBSITE
+http://www.facweb.iitkgp.ernet.in/~shamik
+AWARDS
+University Gold Medal
+AWARDS
+Alexander von Humboldt Fellow
+RESEARCH
+My current research interests are Computer Security and Data Analytics. Over the years, I have also worked in the fields of Image Processing and Pattern Recognition.
+                                                    
+PUBLICATION
+Information Fusion from Multiple Cameras for Gait-based Re-identification and Recognition  by P. Chattopadhyay, Shamik Sural, J. Mukherjee  
+                                                            IET Image Processing 
+                                                            Vol. 9(11) 
+                                                             pp. 969-976 
+YEAR
+(2015)
+
+                                                        PUBLICATION
+Minimizing Organizational User Requirement while Meeting Security Constraints  by Arindam Roy, Shamik Sural, Arun Kumar Majumdar, Jaideep Vaidya and Vijay Atluri  
+                                                            ACM Transactions on Management Information Systems 
+                                                             
+                                                             6(3), Article No. 12 
+YEAR
+(2015)
+
+                                                        PUBLICATION
+The Generalized Temporal Role Mining Problem  by B. Mitra, Shamik Sural, V. Atluri, J. Vaidya  
+                                                            Journal of Computer Security 
+                                                            Vol. 23(1) 
+                                                             pp. 31-56 
+YEAR
+(2015)
+
+                                                        PUBLICATION
+Meeting Cardinality Constraints in Role Mining  by P. Harika, M. Nagajyothi, John C. John, Shamik Sural, Jaideep Vaidya and Vijay Atluri  
+                                                            IEEE Transactions on Dependable and Secure Computing 
+                                                            12(1) 
+                                                             pp. 71 - 84 
+YEAR
+(2015)
+
+                                                        PUBLICATION
+Modeling, Synthesis and Characterization of Occlusion in Videos  by Aditi Roy, Pratik Chattopadhyay, Shamik Sural, J. Mukherjee and Gerhard Rigoll  
+                                                            IET Computer Vision 
+                                                            9(6) 
+                                                             pp. 821-830 
+YEAR
+(2015)
+
+                                                        PUBLICATION
+Frontal Gait Recognition from Occluded Scenes  by P. Chattopadhyay, Shamik Sural, J. Mukherjee  
+                                                            Pattern Recognition Letters 
+                                                            Vol. 63(1) 
+                                                             pp. 9-15 
+YEAR
+(2015)
+
+                                                        PROJECTS
+ERP SYSTEM FOR THE INSTITUTE&nbsp;IIT KHARAGPUR
+PROJECTS
+Expansion of telemedicine project in Tripura&nbsp;Webel Electronic Communication Systems Ltd,
+PROJECTS
+Templates &amp; R-Extraction Tools - II&nbsp;National Semiconductor Corporation (NSC)
+Ph.D. Students
+STUDENT
+Soumyadeep Dey
+Area of Research: 
+Image Processing &amp; Pattern Recognition
+STUDENT
+Nandedkar Amit Vijay
+Area of Research: 
+Image and video processing
+STUDENT
+Mahendra Pratap Singh
+Area of Research: 
+Computer Security
+STUDENT
+Sadhana Jha
+Area of Research: 
+Computer Security
+STUDENT
+Arindam Roy
+Area of Research: 
+Computer Security
+STUDENT
+John C. John
+Area of Research: 
+Multi-domain Distributed Security
+STUDENT
+Rajesh Basak
+Area of Research: 
+Cloud Computing, Data Analytics
+STUDENT
+Saptarshi Das
+Area of Research: 
+Computer Security
+STUDENT
+Debopriyo Banerjee
+Area of Research: 
+Data Analytics
+MS Students
+STUDENT
+Dipannita Podder
+Area of Research: 
+Image Processing
+
+NAME
+Soumyajit Dey
+EMAIL
+soumya@cse.iitkgp.ernet.in
+                                                                        
+WEBSITE
+http://cse.iitkgp.ac.in/~soumya/
+PUBLICATION
+A Kleene Algebra of Tagged System Actors for Reasoning about Heterogeneous Embedded Systems  by Soumyajit Dey, Dipankar Sarkar, Anupam Basu  
+                                                            IEEE Transaction Computers 
+                                                            62(10) 
+                                                             1917-1931 
+YEAR
+(2013)
+
+                                                        PUBLICATION
+A Kleene Algebra of Tagged System Actors for Reasoning about Heterogeneous Embedded Systems  by Soumyajit Dey, Dipankar Sarkar, Anupam Basu  
+                                                            IEEE Embedded Systems Letters 
+                                                            3(1) 
+                                                             28-31 
+YEAR
+(2011)
+
+                                                        PUBLICATION
+A Tag Machine based Performance Evaluation Method for Job-Shop Schedules  by Soumyajit Dey, Dipankar Sarkar, Anupam Basu  
+                                                            IEEE Transaction CAD 
+                                                            29(7) 
+                                                             1028-1041 
+YEAR
+(2010)
+
+                                                        PUBLICATION
+Architectural Optimizations for Text to Speech Synthesis in Embedded Systems  by Soumyajit Dey, Monu Kedia, Anupam  
+                                                            ASP-DAC 
+                                                             
+                                                              
+YEAR
+(2007)
+
+                                                        PUBLICATION
+Adaptive Sharing of Sampling Rates among Software Based Controllers  by Rajorshee Raha, Soumyajit Dey, Pallab Dasgupta  
+                                                            IEEE Multi - Conference on System and Control (MSC) 
+                                                             
+                                                              
+YEAR
+(2015)
+
+                                                        PUBLICATION
+Integrating Formal Methods with Testing for Reliability Estimation of Component Based Systems  by Debasmita Lohar, Soumyajit Dey  
+                                                            International Symposium on Software Reliability Engineering (ISSRE), Industry Track 
+                                                             
+                                                              
+YEAR
+(2015)
+
+                                                        PUBLICATION
+RELSPEC: A Framework for Early Reliability Refinement of Embedded Applications  by Saurav Kumar Ghosh, Aritra Hazra and Soumyajit Dey  
+                                                            IEEE International Conference on VLSI Design 
+                                                             
+                                                              
+YEAR
+(2015)
+
+                                                        PUBLICATION
+An Approach to Software Performance Evaluation on Customized Embedded Processors  by Soumyajit Dey, Monu Kedia, Anupam Basu  
+                                                            International Conference on VLSI Design 
+                                                             
+                                                              
+YEAR
+(2008)
+
+                                                        PUBLICATION
+Embedded Support Vector   Machine: Architectural Enhancements and Evaluation  by Soumyajit Dey, Monu Kedia, Niket Agarwal, Anupam Basu  
+                                                            International Conference on VLSI Design 
+                                                             
+                                                              
+YEAR
+(2007)
+
+                                                        PUBLICATION
+An Approach to Architectural Enhancement for Embedded Speech Applications  by Soumyajit Dey, Susmit Biswas, Arijit Mukhopadhyay Anupam Basu  
+                                                            International Conference on VLSI Design 
+                                                             
+                                                              
+YEAR
+(2006)
+
+                                                        PROJECTS
+Architectural and Algorithmic Optimizations for Speech Based Communication Interfaces on Mobile Device&nbsp;INTEL TECHNOLOGY INDIA PVT. LTD.
+PROJECTS
+Intel embedded innovation lablet&nbsp;Intel Semiconductor (US) Limited
+PROJECTS
+Opened &amp; Intelligent Plug-in Hybrid Electric Vehicle (PHEV) Technologies for Smart Indian Cities&nbsp;MHRD
+PROJECTS
+Static analysis based partitioning technique for GPGPU programs&nbsp;ISIRD, SRIC
+PROJECTS
+Synthesizing test programs as directed test families for incremental CPU validation&nbsp;INTEL TECHNOLOGY INDIA PVT. LTD.
+Ph.D. Students
+STUDENT
+Sumana Ghosh
+Area of Research: 
+Formal Verification
+STUDENT
+Saurav Kr. Ghosh
+Area of Research: 
+Formal Analysis of probabilistic programs
+STUDENT
+Rajib Lochan Jana
+Area of Research: 
+Formal Fethods for Embedded System Design
+STUDENT
+Thakkar Jay Ashwinbhai
+Area of Research: 
+Formal Verification
+STUDENT
+Anirban Ghose
+Area of Research: 
+Compilation and Runtime Techniques for High performance Architectures
+MS Students
+STUDENT
+Pallavi Mitra
+Area of Research: 
+Speech Processing in GPGPU platforms
+
+NAME
+Soumya Kanti Ghosh
+RESPONSIBILITY
+Head, Institute Information Cell
+EMAIL
+skg@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-282332
+                                                                        
+WEBSITE
+http://www.facweb.iitkgp.ernet.in/~skg
+AWARDS
+University Gold Medal
+PUBLICATION
+An approach for service oriented discovery and retrieval of spatial data  by Manoj Paul, Soumya K Ghosh  
+                                                            International workshop on Service-oriented software engineering 
+                                                            ACM 
+                                                             88-94 
+YEAR
+(2006)
+
+                                                        PUBLICATION
+Enhancement of Lifetime using Duty Cycle and Network Coding in Wireless Sensor Networks  by Rashmi Ranjan Rout, Soumya K. Ghosh  
+                                                            IEEE Transactions on Wireless Communications 
+                                                            12 
+                                                             656-667 
+YEAR
+(2013)
+
+                                                        PUBLICATION
+SelCSP: A framework to facilitate selection of cloud service providers  by Nirnay Ghosh, Soumya K Ghosh, Sajal K Das  
+                                                            IEEE Transactions on Cloud Computing 
+                                                            3 
+                                                             66-79 
+YEAR
+(2015)
+
+                                                        PROJECTS
+AI driven real time traffic incident prediction and traffic management&nbsp;MHRD
+PROJECTS
+Artificial intelligence for societal needs: knowledge discovery and intelligent decision making for solving problems in Indian context related to energy, climate, water, disaster management and traffic&nbsp;IIT KHARAGPUR
+PROJECTS
+Decision support system for infrastructure planning and management in coastal areas of West Bengal&nbsp;MHRD
+PROJECTS
+Design &amp; Development of IIT Kharagpur Website&nbsp;IIT KHARAGPUR
+PROJECTS
+Development of a Remote Healthcare Delivery System&nbsp;IoTimize LLC
+PROJECTS
+Development of a systematic method to enhance road safety in Indian cities through improved accident data collection, advanced statistical analysis and innovative design&nbsp;SRIC, IIT KHARAGPUR
+PROJECTS
+ERP SYSTEM FOR THE INSTITUTE&nbsp;IIT KHARAGPUR
+PROJECTS
+GENERAL MOTORS ECS CRL FOR EDUCATION&nbsp;General Motors Technical Centre India Pvt. Ltd.
+PROJECTS
+IT Consultancy for National Insurance Company Limited&nbsp;Chief Manager, National Insurance Co Ltd
+Ph.D. Students
+STUDENT
+Parantapa Bhattacharya
+Area of Research: 
+Cloud Computing and Online Social Network
+STUDENT
+Arindam Dasgupta
+Area of Research: 
+Information System
+STUDENT
+Rajesh Prasad Barnwal
+Area of Research: 
+Vehicular Technology
+STUDENT
+Suman Samui
+Area of Research: 
+VLSI Design
+STUDENT
+Chandan Misra
+Area of Research: 
+Spatial Datamining, Information Retrieval
+STUDENT
+Monidipa Das
+Area of Research: 
+Spatial Data Analysis
+STUDENT
+Jaydeep Das
+Area of Research: 
+Cloud Computing
+STUDENT
+Rajesh Basak
+Area of Research: 
+Cloud Computing, Data Analytics
+STUDENT
+Srijoni Majumdar
+Area of Research: 
+Software Engineering
+STUDENT
+Anupam Khan
+Area of Research: 
+Data mining
+STUDENT
+Sukanya Samanta
+Area of Research: 
+Operations Research
+STUDENT
+Shreya Ghosh
+Area of Research: 
+Spatial Informatics
+STUDENT
+Shubha Brata Nath
+Area of Research: 
+Cloud Computing
+MS Students
+STUDENT
+Saptarshi Pal
+Area of Research: 
+Spatial Data Mining
+STUDENT
+Omprakash Chakraborty
+Area of Research: 
+Spatial Web Services
+STUDENT
+Abhisek Chowdhury
+Area of Research: 
+Spatial Informatics
+
+NAME
+Sourangshu Bhattacharya
+EMAIL
+sourangshu@cse.iitkgp.ernet.in
+                                                                        
+WEBSITE
+http://cse.iitkgp.ac.in/~sourangshu/
+PROJECTS
+Artificial intelligence for societal needs: knowledge discovery and intelligent decision making for solving problems in Indian context related to energy, climate, water, disaster management and traffic&nbsp;IIT KHARAGPUR
+PROJECTS
+Data driven approaches for inferring opinion dynamics on social networks&nbsp;Department of Science &amp; Technology(DST)
+PROJECTS
+Decoding and exploring ancient classification of Indian music through machine learning method and audience response&nbsp;MHRD
+PROJECTS
+Fast and communication efficient distributed supervised machine learning system using big data platforms&nbsp;Science and Engineering Research Board (SERB)
+PROJECTS
+Google Unrestricted Fund for Social Computing&nbsp;GOOGLE INDIA PVT. LTD
+PROJECTS
+Unrestricted Grant for Estimation of Product Response using Temporal Modeling of Past Events&nbsp;Flipkart Internet Private Ltd.
+PROJECTS
+Unrestricted grant for research in social networks and user-generated content&nbsp;Dr. M Chelliah, Head, Academic Relations, Yahoo India R &amp; D
+Ph.D. Students
+STUDENT
+Chandan Misra
+Area of Research: 
+Spatial Datamining, Information Retrieval
+STUDENT
+Asis Roy
+Area of Research: 
+Data Analytics
+STUDENT
+Sanga Chaki
+Area of Research: 
+Computational Musicology
+STUDENT
+Manaar Alam
+Area of Research: 
+Machine Learning in Security
+MS Students
+STUDENT
+Sankarshan Mridha
+Area of Research: 
+Complex Networks and Machine Learning
+STUDENT
+Rijula Kar
+Area of Research: 
+Machine Learning
+
+NAME
+Sudebkumar Prasant Pal
+EMAIL
+spp@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-283488
+                                                                        
+WEBSITE
+http://cse.iitkgp.ac.in/~spp/
+AWARDS
+Rajiv Gandhi Research grant.
+RESEARCH
+My current research encompasses the design of approximation algorithms for (i) computing diffuse reflection paths in polygons,&nbsp; and (ii) computing vertex guard sets for guarding polygons. I am also working on estimating bounds on the sizes of separating and bisecting families for set systems (hypergraphs).
+                                                    
+PUBLICATION
+Visibility with one reflection  by B. Aronov, A. Davis, T. K. Dey, S. P. Pal and D. Chithra Prasad  
+                                                            Discrete and Computational Geometry 
+                                                            vol 19, Springer-Verlag 
+                                                             553-574 
+YEAR
+(1998)
+
+                                                        PUBLICATION
+Computing the shortest path tree in a weak visibility polygon  by S. K. Ghosh, A. Maheshwari, S. P. Pal, S. Saluja and C. E. Veni Madhavan  
+                                                            Proceedings of the eleventh conference on Foundations of Software Technology and Theoretical Computer Science, New Delhi, India, Lecture Notes in Computer Science, Springer-Verlag 
+                                                            vol. 560, Springer-Verlag 
+                                                             369-389 
+YEAR
+(1991)
+
+                                                        PUBLICATION
+Visibility with multiple reflections  by B. Aronov, A. Davis, T. K. Dey, S. P. Pal and D. Chithra Prasad  
+                                                            Discrete and Computational Geometry 
+                                                            vol. 20, Springer-Verlag 
+                                                             61-78 
+YEAR
+(1988)
+
+                                                        PUBLICATION
+A combinatorial approach for studying LOCC transformations of multipartite states  by Sudhir Kumar Singh (M. Sc. Mathematics and Computing 1999-2004), S. P. Pal, Somesh Kumar (Dept. of Mathematics, IIT Kharagpur), and R. Srikanth  
+                                                            Journal of Mathematical Physics 
+                                                            46, 122105, AIP 
+                                                              
+YEAR
+(2005)
+
+                                                        PUBLICATION
+Diffuse Reflection Diameter and Radius for Convex-Quadrilateralizable Polygons Elsevier  by Arindam Khan, Sudebkumar Prasant Pal, Mridul Aanjaneya, Arijit Bishnu, Subhas C. Nandy  
+                                                            Discrete Applied Mathematics 
+                                                            161(10-11), Elsevier 
+                                                             1496-1505 
+YEAR
+(2013)
+
+                                                        Ph.D. Students
+STUDENT
+Tapas Kumar Mishra
+Area of Research: 
+Algorithms and combinatorics
+STUDENT
+Pritam Bhattacharya
+Area of Research: 
+Computational geometry
+
+NAME
+Sudeshna Sarkar
+RESPONSIBILITY
+Head, Computer Science and Engineering
+EMAIL
+sudeshna@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-283494
+                                                                        
+WEBSITE
+http://cse.iitkgp.ac.in/~sudeshna
+RESEARCH
+I work in Artificial Intelligence, Machine Learning and Natural Language Processing. I am interested in applying Artificial Intelligence and Machine Learning methods to different domains. I have been working with Natural Language Processing of Indian languages, information retrieval and recommendation systems and text mining applications. I am interested in using Machine learning methods to tasks related to climate modelling and prediction. I have been interested in doing analytics of mobility data. We have been working on applications in the domain of transportation and logistics.
+                                                    
+PUBLICATION
+Preference Relations Based Unsupervised Rank Aggregation for Metasearch  by Maunendra Sankar Desarkar, Sudeshna Sarkar, Pabitra Mitra  
+                                                            Expert Systems with Applications 
+                                                            49 (1) 
+                                                             86-98 
+YEAR
+(2016)
+
+                                                        PUBLICATION
+A Mobility Simulation Framework Of Humans With Group Behavior Modeling  by Gupta, A.; MISHRA, A.; Vadlamudi, S.G.; Chakrabarti, P.P.; Sarkar, S.; Mukherjee, T.; Gnanasambandam, N.  
+                                                            Data Mining (ICDM), 2013 IEEE 13th International Conference on 
+                                                            IEEE 
+                                                             1067-1072 
+YEAR
+(2013)
+
+                                                        PUBLICATION
+Investigation and Modeling of the Structure of Texting Language  by Monojit Choudhury, Rahul Saraf, Vijit Jain, Animesh Mukherjee, Sudeshna Sarkar, Anupam Basu  
+                                                            International Journal on Document Analysis and Recognition (IJADR) 
+                                                            10 (4) 
+                                                             157-174 
+YEAR
+(2007)
+
+                                                        PUBLICATION
+A Comparative Study on Feature Reduction Approaches in Hindi and Bengali Named Entity Recognition  by Sujan Kumar Saha, Pabitra Mitra  and Sudeshna Sarkar  
+                                                            Knowledge-Based Systems 
+                                                            27 
+                                                             322-332 
+YEAR
+(2012)
+
+                                                        PUBLICATION
+Feature selection techniques for maximum entropy based biomedical named entity recognition.  by Sujan Kumar Saha, Sudeshna Sarkar, Pabitra Mitra  
+                                                            Journal of Biomedical Informatics 
+                                                            42 (5) 
+                                                             905-911 
+YEAR
+(2009)
+
+                                                        PUBLICATION
+A Dependency Annotation Scheme For Bangla Tree-bank  by Sanjay Chatterji, Tanaya Mukherjee Sarkar, Pragati Dhang, Samhita Deb, Sudeshna Sarkar, Jayshree Chakraborty, Anupam Basu  
+                                                            Language Resources and Evaluation 
+                                                            48 (3) 
+                                                             443-477 
+YEAR
+(2014)
+
+                                                        PUBLICATION
+Personalized Search over Medical Forums  by Arohi Kumar, Amit Kumar Meher, Sudeshna Sarkar  
+                                                            Mining Intelligence and Knowledge Exploration 
+                                                            Springer 
+                                                             11-20 
+YEAR
+(2014)
+
+                                                        PUBLICATION
+Segmenting Highway Network Based on Speed Profiles  by Aziz, Russel, Manav Kedia, Soham Dan, Sudeshna Sarkar, Sudeshna Mitra  
+                                                            Intelligent Transportation Systems (ITSC), 2015 IEEE 18th International Conference on 
+                                                            IEEE 
+                                                             2927-2932 
+YEAR
+(2015)
+
+                                                        PUBLICATION
+Assisting web document retrieval with topic identification in tourism domain  by Rajendra Prasath, Vijai Kumar, Sudeshna Sarkar  
+                                                            Web Intelligence 
+                                                            13 (1) 
+                                                             31-41 
+YEAR
+(2015)
+
+                                                        PUBLICATION
+Syntactico- semantic subject (karta) in Bangla  by Pragati Dhang, Sanjay Chatterji, Tanaya Mukherjee Sarkar, Sudeshna Sarkar, Jayashree Chakraborty, Anupam Basu  
+                                                            International Journal of Bengal Studies 
+                                                            4-5 
+                                                             434-449 
+YEAR
+(2014)
+
+                                                        PROJECTS
+AI driven real time traffic incident prediction and traffic management&nbsp;MHRD
+PROJECTS
+Application of artificial intelligence in groundwater storage estimation of Indian subcontinent&nbsp;MHRD
+PROJECTS
+A ROBUST BANGLA SPELL CHECKER&nbsp;SOCIETY FOR NATURAL LANGUAGE TECHNOLOGY RESEARCH, KOLKATA
+PROJECTS
+Artificial intelligence for societal needs: knowledge discovery and intelligent decision making for solving problems in Indian context related to energy, climate, water, disaster management and traffic&nbsp;IIT KHARAGPUR
+PROJECTS
+Centre of Excellence in robotics&nbsp;SRIC, IIT KHARAGPUR
+PROJECTS
+Creation of Bengali Dependency Treebank&nbsp;GOOGLE INDIA PVT. LTD
+PROJECTS
+Development of Cross Lingual Information Access System - CLIA - Phase 2&nbsp;Ministry of Communication &amp; Information Technology, Department of Information Technology
+PROJECTS
+Development of national digital library (NDL) of India - towards building a national asset&nbsp;National Mission on Education through Communication &amp; Information Technology (NMEICT)
+PROJECTS
+Effective Drug Repurposing Through Literature &amp; Patent Mining, Data Integration &amp; Development of Systems Pharmacology Platform&nbsp;MHRD
+PROJECTS
+Feature extraction and data mining from climate data&nbsp;MHRD
+PROJECTS
+Review Recommendation System&nbsp;Flipkart Internet Private Ltd.
+PROJECTS
+Robo-soccer research by Kharagpur Robot Soccer Students Group&nbsp;SRIC, IIT KHARAGPUR
+PROJECTS
+To develop a scientific rationale of IELS (Indo-European Langauge Systems) applying a) Computational Linguistics &amp; b) Cognitive Geo-spatial mapping approaches&nbsp;MHRD
+PROJECTS
+Uchhatar Avishkar Yojana&nbsp;MHRD
+Ph.D. Students
+STUDENT
+Russel Aziz
+Area of Research: 
+Transportation planning
+STUDENT
+Ayan Das
+Area of Research: 
+Machine Learning
+STUDENT
+Pragnaditya Malakar
+Area of Research: 
+Artifical Intelligence application on Groundwater
+STUDENT
+Alapan Kuila
+Area of Research: 
+Natural Language Processing
+STUDENT
+Madiraju Srilakshmi
+Area of Research: 
+Machine Learning
+MS Students
+STUDENT
+Sonam Singh
+Area of Research: 
+Cl;imate Data Mining
+STUDENT
+Prabir Mallick
+Area of Research: 
+Transportation Analytics
+STUDENT
+Paheli Bhattacharya
+Area of Research: 
+Corpus Linguistics
+STUDENT
+Sulagna Gope
+Area of Research: 
+Climate Data Mining
+STUDENT
+Saptarshi Misra
+Area of Research: 
+Machine Learning
+STUDENT
+Ankita Saha
+Area of Research: 
+Natural Language Processing
+STUDENT
+Arunavo Banerjee
+Area of Research: 
+Information Retrieval
+STUDENT
+Ayan Chandra
+Area of Research: 
+Digital Library and Information Retrieval
+STUDENT
+Indrasekhar Sengupta
+Area of Research: 
+Digital Library and Information Retrieval
+
+NAME
+Sudip Misra
+RESPONSIBILITY
+Assistant Warden, Meghnath Saha Hall
+EMAIL
+smisra@sit.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-282338
+                                                                        
+WEBSITE
+http://www.sit.iitkgp.ernet.in/~smisra/
+AWARDS
+Samsung Innovation Awards
+AWARDS
+NASI Young Scientist Award
+AWARDS
+IEI Young Engineers Award
+AWARDS
+IEEE ComSoc AP Young Res Award
+AWARDS
+Humboldt Fellowship
+PUBLICATION
+Cost-Effective Mapping Between Wireless Body Area Networks and Cloud Service Providers Based on Multi-Stage Bargaining  by S. Moulik, S. Misra, A. Gaurav  
+                                                            IEEE Transactions on Mobile Computing 
+                                                            IEEE 
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+Coalition Formation for Cooperative Service-based Message Sharing in Vehicular Ad Hoc Networks  by B. Das, S. Misra, U. Roy  
+                                                            IEEE Transactions on Parallel and Distributed Systems 
+                                                            IEEE 
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+Topology Control for Self-Adaptation in Wireless Sensor Networks with Temporary Connection Impairment  by A. Roy, S. Misra, P. Kar, A. Mondal  
+                                                            ACM Transactions on Autonomous and Adaptive Systems 
+                                                            ACM 
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+AT-MAC: Adaptive MAC-frame Payload Tuning for Reliable Communication in Wireless Body Area Networks  by S. Moulik, S. Misra, D. Das  
+                                                            IEEE Transactions on Mobile Computing 
+                                                            IEEE 
+                                                              
+YEAR
+(2016)
+
+                                                        PUBLICATION
+Utility-based Exploration for Performance Enhancement in Opportunistic Mobile Networks  by B. Saha, S. Misra, S. Pal  
+                                                            IEEE Transactions on Computers 
+                                                            IEEE 
+                                                              
+YEAR
+(2015)
+
+                                                        PUBLICATION
+Assessment of the Suitability of Fog Computing in the Context of Internet of Things  by S. Sarkar, S. Misra  
+                                                            IEEE Transactions on Cloud Computing 
+                                                            IEEE 
+                                                              
+YEAR
+(2015)
+
+                                                        PUBLICATION
+TRAST: Trust-based Distributed Topology Management for Wireless Multimedia Sensor Networks  by G. Mali, S. Misra  
+                                                            IEEE Transactions on Computers 
+                                                            IEEE 
+                                                              
+YEAR
+(2015)
+
+                                                        PUBLICATION
+A Cooperative Bargaining Solution for Priority-based Datarate Tuning in a Wireless Body Area Network  by S. Misra, S. Moulik,  H.-C. Chao  
+                                                            IEEE Transactions on Wireless Communications 
+                                                            IEEE 
+                                                              
+YEAR
+(2015)
+
+                                                        PUBLICATION
+D2S: Dynamic Demand Scheduling in Smart Grid Using Optimal Portfolio Selection Strategy  by S. Bera, P. Gupta, S. Misra  
+                                                            IEEE Transactions on Smart Grid 
+                                                            IEEE 
+                                                              
+YEAR
+(2015)
+
+                                                        PUBLICATION
+Social Choice Considerations in Cloud-Assisted WBAN Architecture for Post-Disaster Healthcare: Data Aggregation and Channelization  by S. Misra, S. Chatterjee  
+                                                            Information Sciences 
+                                                            Elsevier 
+                                                              
+YEAR
+(2014)
+
+                                                        PROJECTS
+Development of a sensor based networking system for improved water management for irrigated crops&nbsp;MHRD
+PROJECTS
+Development of Digital Mine Using Internet of Things&nbsp;Department of Electronics and Information Technology
+PROJECTS
+Measurement to management (M2M): improved water use efficiency and agricultural productivity through experimental sensor network&nbsp;Information Technology Research Academy (ITRA)
+PROJECTS
+Signals &amp; systems for life science&nbsp;MHRD
+PROJECTS
+Virtual Labs Phase II&nbsp;MHRD, Department of Higher Education, NMEICT, New Delhi
+Ph.D. Students
+STUDENT
+Bhavathankar Prasenjit Bhanudas
+Area of Research: 
+Wireless Sensor Networks
+STUDENT
+Barun Kumar Saha
+Area of Research: 
+Networks
+STUDENT
+Tamoghna Ojha
+Area of Research: 
+Networks
+STUDENT
+Anandarup Mukherjee
+Area of Research: 
+Networks
+STUDENT
+Samaresh Bera
+Area of Research: 
+Networks
+STUDENT
+Ayan Mondal
+Area of Research: 
+Networks
+STUDENT
+Arijit Roy
+Area of Research: 
+Data Analysis for Industrial Wireless Networks
+STUDENT
+Pradyumna Kumar Bishoyi
+Area of Research: 
+Networks
+STUDENT
+Sumana Maiti
+Area of Research: 
+Networks
+STUDENT
+Ilora Maity
+Area of Research: 
+Applications of Networks
+STUDENT
+Satendra Kumar
+Area of Research: 
+Applications of Networks
+STUDENT
+Abhishek Bera
+Area of Research: 
+Networks
+STUDENT
+Chandana Roy
+Area of Research: 
+Industrial IoT
+MS Students
+STUDENT
+Amit Samanta
+Area of Research: 
+Networks
+STUDENT
+Sanku Kumar Roy
+Area of Research: 
+Networks
+STUDENT
+Niloy Saha
+Area of Research: 
+Networks
+STUDENT
+Aishwariya Chakraborty
+Area of Research: 
+Networks
+
+NAME
+Sujoy Ghose
+RESPONSIBILITY
+Chief Vigilance Officer
+EMAIL
+sujoy@cse.iitkgp.ernet.in
+                                                                        
+PHONE
++91-3222-283478
+                                                                        
+PROJECTS
+Post CBS Integration(PCBS)&nbsp;The Orissa State Cooperative Bank Ltd., Bhubaneswar.
+Ph.D. Students
+STUDENT
+Sangita Dhara
+Area of Research: 
+Development of Protocols for Inter Planetary Networks
+MS Students
+STUDENT
+Shibabroto Banerjee
+Area of Research: 
+Analysis of Plethismographic Signals

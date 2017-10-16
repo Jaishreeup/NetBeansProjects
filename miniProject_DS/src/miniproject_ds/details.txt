@@ -1,0 +1,6 @@
+AC NO       OPERATION           AMT
+1               D               500
+2               C               500
+1               D               400
+1               C               200
+2               D               200

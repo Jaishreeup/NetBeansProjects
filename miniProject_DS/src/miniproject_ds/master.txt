@@ -1,0 +1,3 @@
+AC NO.      NAME        AMT
+1           A           3000
+2           B           5000
